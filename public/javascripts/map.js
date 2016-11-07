@@ -28,19 +28,15 @@ function addMarker(location, map) {
     var marker = new google.maps.Marker({
         position: location,
         label: labels[labelIndex++ % labels.length],
-        map: map,
-        draggable: true,
-        animation: google.maps.Animation.DROP
+        map: map
     });
 
 }
 
-//delete markers, add a button later
-function clearMarkers() {
-    for (var i = 0; i < markedLocations.length; i++) {
-        markedLocations[i].setMap(null);
-    }
-    markedLocations = [];
+//delete markers
+function removeMarkers() {
+    markedLocations = []; //reset markedLocations to null
+    initialize(); //reload the map with no markers
 }
 
 
