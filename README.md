@@ -10,7 +10,7 @@ In this project, we are no longer limiting the scores to each neighborhood, but 
 
 Instructions:
 
-1. clone repo to desktop
+1. clone repo to computer
 2. In terminal, enter project folder
 
 In Terminal, enter:
