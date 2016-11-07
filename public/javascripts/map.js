@@ -1,8 +1,3 @@
-
-
-// Each marker is labeled with a single alphabetical character.
-var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-var labelIndex = 0;
 //initialize array of marked locations
 var markedLocations = [];
 
@@ -16,13 +11,16 @@ function initialize() {
     // This event listener calls addMarker() when the map is clicked.
     google.maps.event.addListener(map, 'click', function(event) {
         addMarker(event.latLng, map);
+        //push marker to array markedLocations
         markedLocations.push( [ event.latLng.lat() , event.latLng.lng() ]);
         //console.log(markedLocations);
     });
 
 }
 
-
+// Each marker is labeled with a single alphabetical character.
+var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+var labelIndex = 0;
 // Adds a marker to the map.
 function addMarker(location, map) {
     // Add the marker at the clicked location, and add the next-available label
@@ -30,10 +28,19 @@ function addMarker(location, map) {
     var marker = new google.maps.Marker({
         position: location,
         label: labels[labelIndex++ % labels.length],
-        map: map
+        map: map,
+        draggable: true,
+        animation: google.maps.Animation.DROP
     });
 
-    //console.log(marker.position.lat);
+}
+
+//delete markers, add a button later
+function clearMarkers() {
+    for (var i = 0; i < markedLocations.length; i++) {
+        markedLocations[i].setMap(null);
+    }
+    markedLocations = [];
 }
 
 
