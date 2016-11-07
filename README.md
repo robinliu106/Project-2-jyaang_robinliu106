@@ -19,4 +19,6 @@ In Terminal, enter:
 
 "node app.js"
 
+In your Browser, go to "localhost:8000" to view page
+
 
