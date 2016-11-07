@@ -5,24 +5,5 @@ block content
     p Welcome to #{title}
     
     div(id='map')
-    
-    script.
-        function initMap() {
-            var uluru = {lat: -25.363, lng: 131.044};
-            var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 4,
-                center: uluru
-            });
-            var marker = new google.maps.Marker({
-                position: uluru,
-                map: map
-            });
-        }
-
-        api_key = 'AIzaSyCdiHcIDhC15jBLx3EkS3DHERYQhrfbibo';
-        
-        second_key = 'AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU';
-
-    script(async,defer,src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU&callback=initMap')
-    
-    
+        script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU')
+        script(src='/javascripts/map.js')
