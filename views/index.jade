@@ -11,11 +11,14 @@ block content
     script(async,defer,src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAiVJoQ7TIkdpaFmqlYoDhuUkx4x6ZnKHU&callback=initialize')
     script(src='/javascripts/map.js')
     
-    button(onclick='removeMarkers()') Remove Markers
+    
     
     div(id='origin_address')  Origin Address: 
     p(id='dest_address') Destination Address: 
-    p(id='distance_in_meters') Distance (meters): 
+    p(id='distance_in_meters') Distance In Meters: 
+    
+    button(onclick='removeMarkers()') Remove Markers
+    
     div(id='map')
     
     

@@ -61,14 +61,17 @@ function removeMarkers() {
 function getDistance(origin) {
 
     var origin = new google.maps.LatLng(origin[0],origin[1]);
-    var destination1 = new google.maps.LatLng(42.4,-71.06);
-    //var destination2 = new google.maps.LatLng(50.047692, 14.434150);
+
+    //test
+    var hospitalsList = [ [42.3631542,-71.0710221] , [42.3457464,-71.1032591] , [42.3457464,-71.1032591] ];
+    var hospitals = generatePoints(hospitalsList);
+    //alert(hospitals);
 
     var service = new google.maps.DistanceMatrixService();
 
     service.getDistanceMatrix({
         origins: [origin],
-        destinations: [destination1],
+        destinations: hospitals,
         travelMode: google.maps.TravelMode.DRIVING,
         avoidHighways: false,
         avoidTolls: false,
@@ -79,18 +82,21 @@ function getDistance(origin) {
     function callback(response, status) {
         if (status == "OK") {
 
-            //var origin_address = response.originAddresses;
+            //update index.page
+            origin_address.innerHTML = 'Origin Address: ' + response.originAddresses;
 
 
+            var minDistance = Infinity;
 
+            for (var i = 0; i < response.rows[0].elements.length; i++) {
+                if (response.rows[0].elements[i].distance.value < minDistance) {
+                    minDistance = response.rows[0].elements[i].distance.value;
+                }
+            }
 
-            origin_address.innerHTML += response.originAddresses;
+            distance_in_meters.innerHTML = 'Shortest Distance in Meters: ' + minDistance;
 
-
-            dest_address.innerHTML += response.destinationAddresses;
-
-
-            distance_in_meters.innerHTML += response.rows[0].elements[0].distance.value + ' meters';
+            dest_address.innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses;
 
             /*
             //add destination addresses to array
@@ -112,6 +118,15 @@ function getDistance(origin) {
 
     }
 
+}
+
+function generatePoints(array) {
+    var result = [];
+    for (var i = 0 ; i < array.length; i++) {
+        var point = new google.maps.LatLng(array[i][0],array[i][1]);
+        result.push( point );
+    }
+    return result;
 }
 
 
