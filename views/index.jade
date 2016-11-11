@@ -8,11 +8,17 @@ block content
     p Welcome to #{title} 
     
     script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU')
+    script(async,defer,src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAiVJoQ7TIkdpaFmqlYoDhuUkx4x6ZnKHU&callback=initialize')
     script(src='/javascripts/map.js')
     
     button(onclick='removeMarkers()') Remove Markers
-        
+    p(id='origin_address')  
+    p(id='dest_address')  
+    p(id='distance_in_meters') HELLO
     div(id='map')
+    
+    
+    
         
     footer
         a(href='https://github.com/robinliu106/bostonMap/tree/master') Fork us on GitHub!
