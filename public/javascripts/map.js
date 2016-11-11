@@ -46,9 +46,9 @@ function removeMarkers() {
     labelIndex = 0; //reset labelIndex to 0
 
     //wipe addresses
-    origin_address.innerHTML = 'Origin Address: ';
-    dest_address.innerHTML = 'Destination Address: ';
-    distance_in_meters.innerHTML = 'Distance (meters): ';
+    origin_address.innerHTML = 'Marker Address: ';
+    dest_address.innerHTML = 'Closest Hospital Address: ';
+    distance_in_meters.innerHTML = 'Distance: ';
 
     initialize(); //reload the map with no markers
 }
@@ -82,36 +82,21 @@ function getDistance(origin) {
     function callback(response, status) {
         if (status == "OK") {
 
-            //update index.page
-            origin_address.innerHTML = 'Origin Address: ' + response.originAddresses;
-
-
+            //calculate minimum distance
             var minDistance = Infinity;
-
+            var counter = 0
             for (var i = 0; i < response.rows[0].elements.length; i++) {
-                if (response.rows[0].elements[i].distance.value < minDistance) {
-                    minDistance = response.rows[0].elements[i].distance.value;
+                var currentDistance = response.rows[0].elements[i].distance.value;
+                if (currentDistance < minDistance) {
+                    minDistance = currentDistance;
+                    counter = i;
                 }
             }
 
-            distance_in_meters.innerHTML = 'Shortest Distance in Meters: ' + minDistance;
-
-            dest_address.innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses;
-
-            /*
-            //add destination addresses to array
-            for (var i = 0; i < response.destinationAddresses.length; i++ ) {
-                dest_address_array.push(response.destinationAddresses[i]);
-            }
-            */
-            $('#results').html(origin_address);
-            //document.getElementById('map') = "HELOlll";
-            //alert(distance_in_meters);
-            //assign values to index.jade
-            document.getElementById('origin_address') = 'TEST';
-            document.getElementById('dest_address') = dest_address;
-            document.getElementById('distance_in_meters') = distance_in_meters;
-
+            //show in index page
+            origin_address.innerHTML = 'Marker Address: ' + response.originAddresses;
+            dest_address.innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses[counter];
+            distance_in_meters.innerHTML = 'Distance: ' + minDistance + ' meters';
         } else {
             alert("Error: " + status);
         }
