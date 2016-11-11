@@ -1,6 +1,7 @@
 //initialize array of marked locations
 var markedLocations = [];
 
+
 function initialize() {
     var boston = { lat:42.342132, lng: -71.103023 };
     var map = new google.maps.Map(document.getElementById('map'), {
@@ -17,7 +18,10 @@ function initialize() {
         getDistance( [event.latLng.lat() , event.latLng.lng()] );
     });
 
-
+    //map these values to index page
+    var origin_address = document.getElementById('origin_address');
+    var dest_address = document.getElementById('dest_address');
+    var distance_in_meters = document.getElementById('distance_in_meters');
 
 }
 
@@ -36,10 +40,16 @@ function addMarker(location, map) {
 
 }
 
-//delete markers
+//delete markers button
 function removeMarkers() {
     markedLocations = []; //reset markedLocations to null
     labelIndex = 0; //reset labelIndex to 0
+
+    //wipe addresses
+    origin_address.innerHTML = 'Origin Address: ';
+    dest_address.innerHTML = 'Destination Address: ';
+    distance_in_meters.innerHTML = 'Distance (meters): ';
+
     initialize(); //reload the map with no markers
 }
 
@@ -49,7 +59,6 @@ function removeMarkers() {
 //documentation
 //https://developers.google.com/maps/documentation/javascript/examples/distance-matrix
 function getDistance(origin) {
-    //var requestString = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin[0] + ',' + origin[1] + '&destinations=' + dest[0] + ',' + dest[1] + '&key=AIzaSyAiVJoQ7TIkdpaFmqlYoDhuUkx4x6ZnKHU';
 
     var origin = new google.maps.LatLng(origin[0],origin[1]);
     var destination1 = new google.maps.LatLng(42.4,-71.06);
@@ -70,9 +79,18 @@ function getDistance(origin) {
     function callback(response, status) {
         if (status == "OK") {
 
-            var origin_address = response.originAddresses;
-            var dest_address = response.destinationAddresses;
-            var distance_in_meters = response.rows[0].elements[0].distance.value;
+            //var origin_address = response.originAddresses;
+
+
+
+
+            origin_address.innerHTML += response.originAddresses;
+
+
+            dest_address.innerHTML += response.destinationAddresses;
+
+
+            distance_in_meters.innerHTML += response.rows[0].elements[0].distance.value + ' meters';
 
             /*
             //add destination addresses to array
@@ -80,20 +98,21 @@ function getDistance(origin) {
                 dest_address_array.push(response.destinationAddresses[i]);
             }
             */
-
-            //alert('origin_address: ' + origin_address);
-            //alert('dest_address: ' + dest_address);
-
+            $('#results').html(origin_address);
+            //document.getElementById('map') = "HELOlll";
+            //alert(distance_in_meters);
             //assign values to index.jade
-            document.getElementById('origin_address') = origin_address;
+            document.getElementById('origin_address') = 'TEST';
             document.getElementById('dest_address') = dest_address;
             document.getElementById('distance_in_meters') = distance_in_meters;
-            alert(distance_in_meters);
+
         } else {
             alert("Error: " + status);
         }
+
     }
 
 }
+
 
 google.maps.event.addDomListener(window, 'load', initialize);
