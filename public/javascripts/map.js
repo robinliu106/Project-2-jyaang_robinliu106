@@ -1,31 +1,27 @@
 
 function initialize() {
-    var markedLocations = [];
     labelIndex = 0; //reset labelIndex in addMarker
 
-    var boston = { lat:42.342132, lng: -71.103023 };
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 12,
-        center: boston
+        center: { lat:42.342132, lng: -71.103023 } //Boston
     });
 
     //Create a marker on the map
     google.maps.event.addListener(map, 'click', function(marker) {
         addMarker(marker.latLng, map); //add marker to map
-        markedLocations.push(marker.latLng); //save marker
         getDistance(marker.latLng); //get distance
     });
 
     //map these values to index page
     var origin_address = document.getElementById('origin_address');
     var dest_address = document.getElementById('dest_address');
-    var distance_in_meters = document.getElementById('distance_in_meters');
+    var distance = document.getElementById('distance');
 
     //set the default text
     origin_address.innerHTML = 'Marker Address: ';
     dest_address.innerHTML = 'Closest Hospital Address: ';
-    distance_in_meters.innerHTML = 'Distance: ';
-
+    distance.innerHTML = 'Distance: ';
 
 }
 
@@ -37,7 +33,7 @@ var labelIndex = 0;
 function addMarker(location, map) {
     // Add the marker at the clicked location, and add the next-available label
     // from the array of alphabetical characters.
-    var marker = new google.maps.Marker({
+    new google.maps.Marker({
         position: location,
         label: labels[labelIndex++ % labels.length],
         map: map
@@ -50,10 +46,9 @@ function getDistance(origin) {
     var service = new google.maps.DistanceMatrixService();
 
     //test data
-    var hospitalsList = [ [42.3631542,-71.0710221] , [42.3457464,-71.1032591] , [42.3457464,-71.1032591] ];
-    var hospitals = generatePoints(hospitalsList);
+    var hospitals = generatePoints( [[42.3631542,-71.0710221],[42.3457464,-71.1032591],[42.3457464,-71.1032591]] );
 
-    //get distance
+    //get distance JSON
     service.getDistanceMatrix({
         origins: [origin],
         destinations: hospitals,
@@ -79,7 +74,7 @@ function getDistance(origin) {
             //show in index page
             origin_address.innerHTML = 'Marker Address: ' + response.originAddresses;
             dest_address.innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses[counter];
-            distance_in_meters.innerHTML = 'Distance: ' + minDistance + ' meters';
+            distance.innerHTML = 'Distance: ' + minDistance + ' meters';
 
         } else {
             alert("Error: " + status);
@@ -94,6 +89,5 @@ function generatePoints(array) {
     }
     return result;
 }
-
 
 google.maps.event.addDomListener(window, 'load', initialize);

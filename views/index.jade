@@ -1,29 +1,22 @@
 extends layout
 block content
-
     
-    
-    h1= title
+    h1 CS 591  
     //passed in from app.js
     p Welcome to #{title} 
     
     script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU')
-    script(async,defer,src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAiVJoQ7TIkdpaFmqlYoDhuUkx4x6ZnKHU&callback=initialize')
     script(src='/javascripts/map.js')
     
-    
-    
-    div(id='origin_address') Marker Address: 
+    p(id='origin_address') Marker Address: 
     p(id='dest_address') Closest Hospital Address:
-    p(id='distance_in_meters') Distance: 
+    p(id='distance') Distance: 
     
-    button(onclick='initialize()') Remove Markers
+    button(onclick='initialize()') Remove Markers 
     
     div(id='map')
     
     
-    
-        
     footer
         a(href='https://github.com/robinliu106/bostonMap/tree/master') Fork us on GitHub!
     
