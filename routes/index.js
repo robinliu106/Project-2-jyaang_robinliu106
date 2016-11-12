@@ -1,19 +1,18 @@
 var express = require('express');
 var router = express.Router();
-//add google api
-var google = require('googleapis');
 
-
-
-
-
-
-//Render pages
+//Render Index Page
 router.get('/', function(req, res){
   res.render('index', {
     title: 'Boston Map'
   });
 });
 
+//Render About Page
+router.get('/about', function(req, res){
+  res.render('about', {
+    title: 'About Page'
+  });
+});
 
 module.exports = router;
