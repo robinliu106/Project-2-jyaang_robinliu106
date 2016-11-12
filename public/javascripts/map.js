@@ -25,8 +25,11 @@ function initialize() {
 
 }
 
-// Each marker is labeled with a single alphabetical character.
-var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // Each marker is labeled with a letter
 var labelIndex = 0;
 
 // Adds a marker to the map.
@@ -39,6 +42,11 @@ function addMarker(location, map) {
         map: map
     });
 }
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
 
 //get distance between two (long,lat) points when a marker is clicked
 //https://developers.google.com/maps/documentation/javascript/examples/distance-matrix
@@ -60,6 +68,9 @@ function getDistance(origin) {
     function callback(response, status) {
         if (status == "OK") {
 
+            //view the json response
+            //console.log(JSON.stringify(response,null,4));
+
             //calculate minimum distance
             var minDistance = Infinity;
             var counter = 0 //track which one is the min.
@@ -76,11 +87,13 @@ function getDistance(origin) {
             dest_address.innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses[counter];
             distance.innerHTML = 'Distance: ' + minDistance + ' meters';
 
-        } else {
-            alert("Error: " + status);
-        }
+        } 
     }
 }
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
 
 function generatePoints(array) {
     var result = [];
@@ -89,5 +102,9 @@ function generatePoints(array) {
     }
     return result;
 }
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
 
 google.maps.event.addDomListener(window, 'load', initialize);
