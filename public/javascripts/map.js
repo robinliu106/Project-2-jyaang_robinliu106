@@ -100,10 +100,17 @@ function generatePoints(array) {
 
 //get hospital data in format : [ name,coord[] ]
 function fetchHospitals(){
+    var hospitals = [];
     $.getJSON('https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD',{ },
-    function(data) {
-        alert('hi');
-        console.log(data);
+    function(response) {
+        console.log(response.data);
+
+        for (var i = 0; i < response.data.length; i++) {
+            hospitals.push([ response.data[i][8] , [response.data[i][14][1],response.data[i][14][2]] ] );
+        }
+        //console.log(hospitals);
+
+        return hospitals;
     });
 
 }
