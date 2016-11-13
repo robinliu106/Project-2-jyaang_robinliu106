@@ -1,4 +1,6 @@
 
+google.maps.event.addDomListener(window, 'load', initialize);
+
 function initialize() {
     labelIndex = 0; //reset labelIndex in addMarker
 
@@ -23,6 +25,8 @@ function initialize() {
         data: generatePoints( [[42.3631542,-71.0710221],[42.3457464,-71.1032591],[42.3457464,-71.1032591]] ),
         map: map
     });
+
+    fetchHospitals();
 }
 
 var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // Each marker is labeled with a letter
@@ -94,5 +98,41 @@ function generatePoints(array) {
     return result;
 }
 
-//load map on initialize
-google.maps.event.addDomListener(window, 'load', initialize);
+//get hospital data in format : [ name,coord[] ]
+function fetchHospitals(){
+    $.getJSON('https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD',{ },
+    function(data) {
+        alert('hi');
+        console.log(data);
+    });
+
+}
+
+
+
+
+/*
+url = "https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD"
+JSON_response = urllib.request.urlopen(url).read().decode("utf-8")
+JSON_object = json.loads(JSON_response) #deserializes a str containing a JSON object to a list
+
+hospitalData = JSON_object['data']
+
+test = hospitalData[0][14][0]
+test = test[1:-1]
+test = test.split(',')
+#print(test[1])
+test = str(test[1]).split(':')
+
+#print(test[1])
+
+a = []
+for hospital in hospitalData:
+    city = hospital[14][0]
+    city = city[1:-1].split(',')
+    city = str(city[1]).split(':')[1]
+    city = city.strip("\"")
+    a.append({"hospitalName" : hospital[8] , "city" : city , "coord" : hospital[-1][1:3] })
+p = json.dumps(a)
+
+*/
