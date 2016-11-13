@@ -44,11 +44,9 @@ app.use(function(err, req, res, next) {
 
 module.exports = app;
 
+var port = 8000;
+var listening = app.listen(port);
 
-
-
-//
-port = 8000;
-app.listen(port);
-console.log('App is now running on port ' + port);
-//
+if (listening) {
+    console.log('\n App is now running on port: ' + port);
+}

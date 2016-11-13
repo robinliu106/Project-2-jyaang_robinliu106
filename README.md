@@ -1,4 +1,4 @@
-# bostonMap
+# CS 591 Project 2 jyaang_robinliu106
 
 Info:
 
