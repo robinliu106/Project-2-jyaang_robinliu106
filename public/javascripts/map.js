@@ -62,6 +62,8 @@ function getHospitalDistance(origin,hospitals) {
 
     var minDistance = Infinity;
 
+    //calculate minimum distance
+
     for (var i = 0; i < distances.length; i++) {
         current = distances[i];
         if (current < minDistance) {
