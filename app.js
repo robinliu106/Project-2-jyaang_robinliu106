@@ -18,7 +18,10 @@ var MongoClient = mongodb.MongoClient;
 
 // Connection to url
 var url = 'mongodb://localhost:27017/repo';
-var coord = []
+var hospital_coord = [];
+var school_coord = [];
+var dayCamp_coord = [];
+
 // Use connect method to connect to the server
 MongoClient.connect(url, function(err, db) {
   if (err) {
@@ -34,11 +37,12 @@ MongoClient.connect(url, function(err, db) {
       if(err) {
         console.log(err);
       } else if (result.length) {
-        //coord.push(result);
-        console.log('Found:', result);
+        hospital_coord=result;
+        //console.log('Found:', result);
       } else {
         console.log('No document(s) found with defined "find" criteria!');
       }
+      console.log(hospital_coord);
     })
 
     var school = db.collection('jyaang_robinliu106.school');
@@ -47,11 +51,12 @@ MongoClient.connect(url, function(err, db) {
       if(err) {
         console.log(err);
       } else if (result.length) {
-        //coord.push(result);
-        console.log('Found:', result);
+        school_coord=result;
+        //console.log('Found:', result);
       } else {
         console.log('No document(s) found with defined "find" criteria!');
       }
+      console.log(school_coord);
     })
 
     var dayCamp = db.collection('jyaang_robinliu106.dayCamp');
@@ -60,12 +65,12 @@ MongoClient.connect(url, function(err, db) {
       if(err) {
         console.log(err);
       } else if (result.length) {
-        //coord.push(result);
-        console.log('Found:', result);
+        dayCamp_coord=result;
+        //console.log('Found:', result);
       } else {
         console.log('No document(s) found with defined "find" criteria!');
       }
-
+      console.log(dayCamp_coord);
       //console.log(coord);
 
       // Close connection
