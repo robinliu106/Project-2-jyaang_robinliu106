@@ -1,36 +1,21 @@
-//get hospital data in format : [ name,coord[] ]
-function fetchHospitals(){
-    var hospitals = [];
-    $.getJSON('https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD',{ },
-    function(response) {
-
-        for (var i = 0; i < response.data.length; i++) {
-            hospitals.push([ response.data[i][8] , [response.data[i][14][1],response.data[i][14][2]] ] );
-        }
-
-    });
-
-    return hospitals;
-
-}
-
+var hospitals = []
 
 function initialize() {
-
-    var hospitals = fetchHospitals();
-    //console.log(hospitals);
     labelIndex = 0; //reset labelIndex in addMarker
+    fetchHospitals();
+
 
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 12,
         center: { lat: 42.342132, lng: -71.103023 }, //Boston
     });
 
+
+
     //Create a marker on the map
     google.maps.event.addListener(map, 'click', function(marker) {
         addMarker(marker.latLng, map); //add marker to map
-        getDistance(marker.latLng,hospitals); //get distance for hospital
-
+        getHospitalDistance(marker.latLng,hospitals); //get distance
     });
 
     //set the default text
@@ -38,15 +23,13 @@ function initialize() {
     document.getElementById('dest_address').innerHTML = 'Closest Hospital Address: ';
     document.getElementById('distance').innerHTML = 'Distance: ';
 
-    //heat map
     /*
+    //heat map
     var heatmap = new google.maps.visualization.HeatmapLayer({
         data: generatePoints( [[42.3631542,-71.0710221],[42.3457464,-71.1032591],[42.3457464,-71.1032591]] ),
         map: map
     });
     */
-
-
 
 }
 
@@ -64,69 +47,72 @@ function addMarker(location, map) {
     });
 }
 
+
 //get distance between two (long,lat) points when a marker is clicked
 //https://developers.google.com/maps/documentation/javascript/examples/distance-matrix
-function getDistance(origin, type) {
-    var service = new google.maps.DistanceMatrixService();
+function getHospitalDistance(origin,hospitals) {
+    var distances = [];
 
-    var hospitals = generatePoints(type);
-    console.log(hospitals);
-
-    service.getDistanceMatrix({
-        origins: [origin],
-        destinations: hospitals,
-        travelMode: google.maps.TravelMode.DRIVING,
-        unitSystem: google.maps.UnitSystem.IMPERIAL
-    }, callback);
-
-    //parse response
-    function callback(response, status) {
-        if (status == "OK") {
-
-            //view the json response in console
-            console.log(JSON.stringify(response,null,4));
-
-            //calculate minimum distance
-            var minDistance = Infinity;
-            var counter = 0 //track which one is the min.
-            for (var i = 0; i < response.rows[0].elements.length; i++) {
-                var currentDistance = response.rows[0].elements[i].distance.value;
-                if (currentDistance < minDistance) {
-                    minDistance = currentDistance;
-                    counter = i;
-                }
-            }
-
-            //replace text in view
-            document.getElementById('origin_address').innerHTML = 'Marker Address: ' + response.originAddresses;
-            document.getElementById('dest_address').innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses[counter];
-            document.getElementById('distance').innerHTML = 'Distance: ' + minDistance + ' meters';
-
-        } else {
-            console.log('didnt work');
-        }
+    for (var i = 0; i < hospitals.length; i++ ) {
+        var current = getDistanceFromLatLonInKm(origin.lat(),origin.lng(),hospitals[i][1][0],hospitals[i][1][1]);
+        distances.push(current);
     }
 
+    //console.log(distances);
+
+    var minDistance = Infinity;
+
+    for (var i = 0; i < distances.length; i++) {
+        current = distances[i];
+        if (current < minDistance) {
+            minDistance = current;
+        }
+    }
+    return minDistance;
 }
+
+//http://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula
+function getDistanceFromLatLonInKm(lat1,lon1,lat2,lon2) {
+  var R = 6371; // Radius of the earth in km
+  var dLat = deg2rad(lat2-lat1);  // deg2rad below
+  var dLon = deg2rad(lon2-lon1);
+  var a =
+    Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) *
+    Math.sin(dLon/2) * Math.sin(dLon/2)
+    ;
+  var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  var d = R * c; // Distance in km
+  return d;
+}
+
+function deg2rad(deg) {
+  return deg * (Math.PI/180)
+}
+
 
 //generate google maps points
 function generatePoints(array) {
-    //console.log(array);
-    //var test = [[42.3631542,-71.0710221],[42.3457464,-71.1032591],[42.3457464,-71.1032591]];
     var result = [];
-
     for (var i = 0 ; i < array.length; i++) {
-        //result.push(new google.maps.LatLng(test[i][0],test[i][1]));
-        //console.log(new google.maps.LatLng(parseFloat(array[i][1][0]),parseFloat(array[i][1][1])));
-        result.push( new google.maps.LatLng(parseFloat(array[i][1][0]),parseFloat(array[i][1][1])));
+        result.push( new google.maps.LatLng(array[i][0],array[i][1]) );
     }
-
-    //console.log(result);
     return result;
+}
+
+function fetchHospitals(){
+    $.getJSON('https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD',{ },
+    function(response) {
+
+        for (var i = 0; i < response.data.length; i++) {
+            hospitals.push([ response.data[i][8] , [response.data[i][14][1],response.data[i][14][2]] ] );
+        }
+
+    });
+
+    return hospitals;
 
 }
 
-
-
-
+//load map on initialize
 google.maps.event.addDomListener(window, 'load', initialize);

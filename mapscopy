@@ -1,0 +1,143 @@
+//get hospital data in format : [ name,coord[] ]
+
+var globalHospital = 0;
+
+function fetchHospitals(){
+    var hospitals = [];
+    $.getJSON('https://data.cityofboston.gov/api/views/46f7-2snz/rows.json?accessType=DOWNLOAD',{ },
+    function(response) {
+
+        for (var i = 0; i < response.data.length; i++) {
+            hospitals.push([ response.data[i][8] , [response.data[i][14][1],response.data[i][14][2]] ] );
+        }
+
+    });
+
+    return hospitals;
+
+}
+
+
+function initialize() {
+
+    var hospitals = fetchHospitals();
+    //console.log(hospitals);
+    labelIndex = 0; //reset labelIndex in addMarker
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 12,
+        center: { lat: 42.342132, lng: -71.103023 }, //Boston
+    });
+
+    //Create a marker on the map
+    google.maps.event.addListener(map, 'click', function(marker) {
+        addMarker(marker.latLng, map); //add marker to map
+        hospitalHelper(marker.latLng,hospitals); //get distance for hospital
+
+    });
+
+    //set the default text
+    document.getElementById('origin_address').innerHTML = 'Marker Address: ';
+    document.getElementById('dest_address').innerHTML = 'Closest Hospital Address: ';
+    document.getElementById('distance').innerHTML = 'Distance: ';
+
+    //heat map
+    /*
+    var heatmap = new google.maps.visualization.HeatmapLayer({
+        data: generatePoints( [[42.3631542,-71.0710221],[42.3457464,-71.1032591],[42.3457464,-71.1032591]] ),
+        map: map
+    });
+    */
+
+
+
+}
+
+var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // Each marker is labeled with a letter
+var labelIndex = 0;
+
+// Adds a marker to the map.
+function addMarker(location, map) {
+    // Add the marker at the clicked location, and add the next-available label
+    // from the array of alphabetical characters.
+    new google.maps.Marker({
+        position: location,
+        label: labels[labelIndex++ % labels.length],
+        map: map
+    });
+}
+
+
+function hospitalHelper(origin,hospitals) {
+    var hospitalPoints = generatePoints(hospitals); //generate google maps points from the data
+    //console.log(hospitalPoints);
+    var hospitalMin = Infinity;
+
+    var currentHospital = getDistance(origin,hospitalPoints[0]);
+    console.log(currentHospital);
+    //console.log(getDistance(origin,hospitalPoints[0]));
+    /*
+    for (var i = 0; i < hospitalPoints.length; i++) {
+
+        console.log(currentHospital);
+        //console.log(currentHospital);
+
+        if (currentHospital < hospitalMin) {
+            hospitalMin = currentDist;
+        }
+
+    }
+    */
+
+    /*
+    document.getElementById('origin_address').innerHTML = 'Marker Address: ' + response.originAddresses;
+    document.getElementById('dest_address').innerHTML = 'Closest Hospital Address: ' + response.destinationAddresses[counter];
+    document.getElementById('distance').innerHTML = 'Distance: ' + hospitalMin + ' meters';
+    */
+}
+
+function getDistance(origin, dest) {
+    var service = new google.maps.DistanceMatrixService();
+    var a = 'hey';
+    service.getDistanceMatrix({
+        origins: [origin],
+        destinations: [dest],
+        travelMode: google.maps.TravelMode.DRIVING,
+        unitSystem: google.maps.UnitSystem.IMPERIAL
+    }, callback);
+
+    //parse response
+    function callback(response, status, a) {
+
+        if (status == "OK") {
+            //view the json response in console
+            //console.log(JSON.stringify(response,null,4));
+            //console.log(response.rows[0].elements[0].distance.value);
+            //globalHospital = response.rows[0].elements[0].distance.value; // , response.originAddresses,response.destinationAddresses);
+            console.log(a)
+        } else {
+            console.log('Error status is: ' + status);
+        }
+    }
+
+    //console.log(a);
+    //return a;
+}
+
+//generate google maps points
+function generatePoints(array) {
+    var result = [];
+
+    for (var i = 0 ; i < array.length; i++) {
+        result.push( new google.maps.LatLng(parseFloat(array[i][1][0]),parseFloat(array[i][1][1])));
+    }
+
+
+    return result;
+
+}
+
+
+
+
+google.maps.event.addDomListener(window, 'load', initialize);

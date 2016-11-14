@@ -2,7 +2,9 @@ extends layout
 block content
     h1 Welcome to #{title} 
 
-    script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU&libraries=visualization')
+    //script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCy6u1aDoikw1_TnS0SZcy4PkJDOBjaOeU&libraries=visualization')
+    
+    script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtr7JSuexniGSHgk9XGAzD-5b1T3FCs4c&libraries=visualization')
     script(src='http://code.jquery.com/jquery-1.11.0.min.js')
     script(src='/javascripts/map.js')
     
@@ -10,9 +12,12 @@ block content
     p(id='dest_address') Closest Hospital Address:
     p(id='distance') Distance: 
     
+    
     button(onclick='initialize()' ) Remove Markers 
     
     div(id='map')
+    
+    p(id='distanceArray')
     
     
     
