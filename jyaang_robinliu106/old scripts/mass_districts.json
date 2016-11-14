@@ -1,0 +1,3674 @@
+[
+  {
+    "NCES LEA ID": 2500051,
+    "State ID": 445,
+    "District Name": "ABBY KELLEY FOSTER CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "10 NEW BOND STREET",
+    "City": "WORCESTER",
+    "Zip Code": 1606,
+    "Telephone": 5088548400
+  },
+  {
+    "NCES LEA ID": 2501650,
+    "State ID": 1,
+    "District Name": "ABINGTON",
+    "Mailing Address": "171 ADAMS ST",
+    "City": "ABINGTON",
+    "Zip Code": 2351,
+    "Telephone": 7819822150
+  },
+  {
+    "NCES LEA ID": 2500021,
+    "State ID": 412,
+    "District Name": "ACADEMY OF THE PACIFIC RIM CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "1 WESTINGHOUSE PLAZA",
+    "City": "HYDE PARK",
+    "Zip Code": 2136,
+    "Telephone": 6173610050
+  },
+  {
+    "NCES LEA ID": 2501680,
+    "State ID": 2,
+    "District Name": "ACTON",
+    "Mailing Address": "16 CHARTER ROAD",
+    "City": "ACTON",
+    "Zip Code": 1720,
+    "Telephone": 9782644700
+  },
+  {
+    "NCES LEA ID": 2501710,
+    "State ID": 600,
+    "District Name": "ACTON-BOXBOROUGH",
+    "Mailing Address": "16 CHARTER RD",
+    "City": "ACTON",
+    "Zip Code": 1720,
+    "Telephone": 9782644700
+  },
+  {
+    "NCES LEA ID": 2501740,
+    "State ID": 3,
+    "District Name": "ACUSHNET",
+    "Mailing Address": "708 MIDDLE ROAD",
+    "City": "ACUSHNET",
+    "Zip Code": 2743,
+    "Telephone": 5089980260
+  },
+  {
+    "NCES LEA ID": 2501780,
+    "State ID": 603,
+    "District Name": "ADAMS-CHESHIRE",
+    "Mailing Address": "125 SAVOY ROAD",
+    "City": "CHESHIRE",
+    "Zip Code": 1225,
+    "Telephone": 4137432939
+  },
+  {
+    "NCES LEA ID": 2500085,
+    "State ID": 430,
+    "District Name": "ADVANCED MATH AND SCIENCE ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "201 FOREST STREET",
+    "City": "MARLBOROUGH",
+    "Zip Code": 1752,
+    "Telephone": 5085972400
+  },
+  {
+    "NCES LEA ID": 2501800,
+    "State ID": 5,
+    "District Name": "AGAWAM",
+    "Mailing Address": "1305 SPRINGFIELD ST",
+    "City": "FEEDING HILLS",
+    "Zip Code": 1030,
+    "Telephone": 4138210548
+  },
+  {
+    "NCES LEA ID": 2500525,
+    "State ID": 409,
+    "District Name": "ALMA DEL MAR CHARTER SCHOOL DISTRICT",
+    "Mailing Address": "26 Madeira Avenue",
+    "City": "NEW BEDFORD",
+    "Zip Code": 2740,
+    "Telephone": 5085427153
+  },
+  {
+    "NCES LEA ID": 2501860,
+    "State ID": 7,
+    "District Name": "AMESBURY",
+    "Mailing Address": "10 CONGRESS STREET",
+    "City": "AMESBURY",
+    "Zip Code": 1913,
+    "Telephone": 9783880507
+  },
+  {
+    "NCES LEA ID": 2500069,
+    "State ID": 415,
+    "District Name": "AMESBURY ACADEMY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "67 FRIEND STREET",
+    "City": "AMESBURY",
+    "Zip Code": 1913,
+    "Telephone": 9783888037
+  },
+  {
+    "NCES LEA ID": 2501890,
+    "State ID": 8,
+    "District Name": "AMHERST",
+    "Mailing Address": "170 CHESTNUT STREET",
+    "City": "AMHERST",
+    "Zip Code": 1002,
+    "Telephone": 4133621805
+  },
+  {
+    "NCES LEA ID": 2501920,
+    "State ID": 605,
+    "District Name": "AMHERST-PELHAM",
+    "Mailing Address": "170 CHESTNUT STREET",
+    "City": "AMHERST",
+    "Zip Code": 1002,
+    "Telephone": 4133621810
+  },
+  {
+    "NCES LEA ID": 2501950,
+    "State ID": 9,
+    "District Name": "ANDOVER",
+    "Mailing Address": "36 BARTLET STREET",
+    "City": "ANDOVER",
+    "Zip Code": 1810,
+    "Telephone": 9786238501
+  },
+  {
+    "NCES LEA ID": 2501980,
+    "State ID": 10,
+    "District Name": "ARLINGTON",
+    "Mailing Address": "869 MASSACHUSETTS AVENUE",
+    "City": "ARLINGTON",
+    "Zip Code": 2476,
+    "Telephone": 7813163523
+  },
+  {
+    "NCES LEA ID": 2502040,
+    "State ID": 610,
+    "District Name": "ASHBURNHAM-WESTMINSTER",
+    "Mailing Address": "11 OAKMONT DRIVE",
+    "City": "ASHBURNHAM",
+    "Zip Code": 1430,
+    "Telephone": 9788271434
+  },
+  {
+    "NCES LEA ID": 2502100,
+    "State ID": 14,
+    "District Name": "ASHLAND",
+    "Mailing Address": "87 WEST UNION STREET",
+    "City": "ASHLAND",
+    "Zip Code": 1721,
+    "Telephone": 5088810150
+  },
+  {
+    "NCES LEA ID": 2502110,
+    "State ID": 801,
+    "District Name": "ASSABET VALLEY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "215 FITCHBURG STREET",
+    "City": "MARLBOROUGH",
+    "Zip Code": 1752,
+    "Telephone": 5084859430
+  },
+  {
+    "NCES LEA ID": 2502160,
+    "State ID": 615,
+    "District Name": "ATHOL-ROYALSTON",
+    "Mailing Address": "P.O.BOX 968",
+    "City": "ATHOL",
+    "Zip Code": 1331,
+    "Telephone": 9782492400
+  },
+  {
+    "NCES LEA ID": 2500041,
+    "State ID": 491,
+    "District Name": "ATLANTIS CHARTER (DISTRICT)",
+    "Mailing Address": "37 PARK STREET STREET",
+    "City": "FALL RIVER",
+    "Zip Code": 2721,
+    "Telephone": 5086722181
+  },
+  {
+    "NCES LEA ID": 2502190,
+    "State ID": 16,
+    "District Name": "ATTLEBORO",
+    "Mailing Address": "100 RATHBUN WILLARD DRIVE",
+    "City": "ATTLEBORO",
+    "Zip Code": 2703,
+    "Telephone": 5082220012
+  },
+  {
+    "NCES LEA ID": 2502220,
+    "State ID": 17,
+    "District Name": "AUBURN",
+    "Mailing Address": "5 WEST STREET",
+    "City": "AUBURN",
+    "Zip Code": 1501,
+    "Telephone": 5088327755
+  },
+  {
+    "NCES LEA ID": 2502250,
+    "State ID": 18,
+    "District Name": "AVON",
+    "Mailing Address": "PATRICK CLARK DRIVE",
+    "City": "AVON",
+    "Zip Code": 2322,
+    "Telephone": 5085880230
+  },
+  {
+    "NCES LEA ID": 2500542,
+    "State ID": 616,
+    "District Name": "Ayer Shirley School District",
+    "Mailing Address": "141 Washington Street",
+    "City": "Ayer",
+    "Zip Code": 1432,
+    "Telephone": 9787728600
+  },
+  {
+    "NCES LEA ID": 2502310,
+    "State ID": 20,
+    "District Name": "BARNSTABLE",
+    "Mailing Address": "P O BOX 955",
+    "City": "HYANNIS",
+    "Zip Code": 2601,
+    "Telephone": 5088624952
+  },
+  {
+    "NCES LEA ID": 2500081,
+    "State ID": 427,
+    "District Name": "BARNSTABLE COMMUNITY HORACE MANN CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "165 BEARSES WAY",
+    "City": "HYANNIS",
+    "Zip Code": 2601,
+    "Telephone": 5087906485
+  },
+  {
+    "NCES LEA ID": 2500059,
+    "State ID": 423,
+    "District Name": "BARNSTABLE HORACE MANN CHARTER (DISTRICT)",
+    "Mailing Address": "730 OSTERVILLE-W. BARNSTABLE R",
+    "City": "MARSTONS MILLS",
+    "Zip Code": 2648,
+    "Telephone": 5084202272
+  },
+  {
+    "NCES LEA ID": 2502400,
+    "State ID": 23,
+    "District Name": "BEDFORD",
+    "Mailing Address": "97 MCMAHON ROAD",
+    "City": "BEDFORD",
+    "Zip Code": 1730,
+    "Telephone": 7812757588
+  },
+  {
+    "NCES LEA ID": 2502430,
+    "State ID": 24,
+    "District Name": "BELCHERTOWN",
+    "Mailing Address": "PO BOX 841",
+    "City": "BELCHERTOWN",
+    "Zip Code": 1007,
+    "Telephone": 4133230456
+  },
+  {
+    "NCES LEA ID": 2502460,
+    "State ID": 25,
+    "District Name": "BELLINGHAM",
+    "Mailing Address": "60 HARPIN STREET",
+    "City": "BELLINGHAM",
+    "Zip Code": 2019,
+    "Telephone": 5088831706
+  },
+  {
+    "NCES LEA ID": 2502490,
+    "State ID": 26,
+    "District Name": "BELMONT",
+    "Mailing Address": "644 PLEASANT STREET",
+    "City": "BELMONT",
+    "Zip Code": 2478,
+    "Telephone": 6179935401
+  },
+  {
+    "NCES LEA ID": 2500022,
+    "State ID": 420,
+    "District Name": "BENJAMIN BANNEKER CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "21 NOTRE DAME AVENUE",
+    "City": "CAMBRIDGE",
+    "Zip Code": 2140,
+    "Telephone": 6174977771
+  },
+  {
+    "NCES LEA ID": 2500030,
+    "State ID": 447,
+    "District Name": "BENJAMIN FRANKLIN CLASSICAL CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "201 MAIN STREET",
+    "City": "FRANKLIN",
+    "Zip Code": 2038,
+    "Telephone": 5085413434
+  },
+  {
+    "NCES LEA ID": 2502520,
+    "State ID": 27,
+    "District Name": "BERKLEY",
+    "Mailing Address": "21 NORTH MAIN STREET",
+    "City": "BERKLEY",
+    "Zip Code": 2779,
+    "Telephone": 5088225220
+  },
+  {
+    "NCES LEA ID": 2500079,
+    "State ID": 414,
+    "District Name": "BERKSHIRE ARTS AND TECHNOLOGY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "1 COMMERCIAL PL",
+    "City": "ADAMS",
+    "Zip Code": 1220,
+    "Telephone": 4137437311
+  },
+  {
+    "NCES LEA ID": 2502530,
+    "State ID": 618,
+    "District Name": "BERKSHIRE HILLS",
+    "Mailing Address": "50 MAIN STREET",
+    "City": "STOCKBRIDGE",
+    "Zip Code": 1262,
+    "Telephone": 4132984017
+  },
+  {
+    "NCES LEA ID": 2502550,
+    "State ID": 28,
+    "District Name": "BERLIN",
+    "Mailing Address": "215 MAIN STREET",
+    "City": "BOYLSTON",
+    "Zip Code": 1505,
+    "Telephone": 5088692837
+  },
+  {
+    "NCES LEA ID": 2502580,
+    "State ID": 620,
+    "District Name": "BERLIN-BOYLSTON",
+    "Mailing Address": "215 MAIN STREET",
+    "City": "BOYLSTON",
+    "Zip Code": 1505,
+    "Telephone": 5088692837
+  },
+  {
+    "NCES LEA ID": 2502640,
+    "State ID": 30,
+    "District Name": "BEVERLY",
+    "Mailing Address": "502 CABOT ST",
+    "City": "BEVERLY",
+    "Zip Code": 1915,
+    "Telephone": 9789216100
+  },
+  {
+    "NCES LEA ID": 2502670,
+    "State ID": 31,
+    "District Name": "BILLERICA",
+    "Mailing Address": "365 BOSTON RD",
+    "City": "BILLERICA",
+    "Zip Code": 1821,
+    "Telephone": 9784369500
+  },
+  {
+    "NCES LEA ID": 2502710,
+    "State ID": 805,
+    "District Name": "BLACKSTONE VALLEY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "65 PLEASANT STREET",
+    "City": "UPTON",
+    "Zip Code": 1568,
+    "Telephone": 5085297758
+  },
+  {
+    "NCES LEA ID": 2502715,
+    "State ID": 622,
+    "District Name": "BLACKSTONE-MILLVILLE",
+    "Mailing Address": "175 LINCOLN STREET",
+    "City": "BLACKSTONE",
+    "Zip Code": 1504,
+    "Telephone": 5088834400
+  },
+  {
+    "NCES LEA ID": 2502740,
+    "State ID": 806,
+    "District Name": "BLUE HILLS REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "800 RANDOLPH STREET",
+    "City": "CANTON",
+    "Zip Code": 2021,
+    "Telephone": 7818285800
+  },
+  {
+    "NCES LEA ID": 2502790,
+    "State ID": 35,
+    "District Name": "BOSTON",
+    "Mailing Address": "26 COURT STREET",
+    "City": "BOSTON",
+    "Zip Code": 2108,
+    "Telephone": 6176359050
+  },
+  {
+    "NCES LEA ID": 2500053,
+    "State ID": 449,
+    "District Name": "BOSTON COLLEGIATE CHARTER (DISTRICT)",
+    "Mailing Address": "11 MAYHEW STREET",
+    "City": "DORCHESTER",
+    "Zip Code": 2125,
+    "Telephone": 6172651172
+  },
+  {
+    "NCES LEA ID": 2500049,
+    "State ID": 424,
+    "District Name": "BOSTON DAY AND EVENING ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "20 KEARSARGE AVE",
+    "City": "ROXBURY",
+    "Zip Code": 2119,
+    "Telephone": 6176356789
+  },
+  {
+    "NCES LEA ID": 2500526,
+    "State ID": 411,
+    "District Name": "BOSTON GREEN ACADEMY HORACE MANN CHARTER SCHOOL DISTRICT",
+    "Mailing Address": "95 G STREET",
+    "City": "SOUTH BOSTON",
+    "Zip Code": 2127,
+    "Telephone": 6173089485
+  },
+  {
+    "NCES LEA ID": 2500080,
+    "State ID": 416,
+    "District Name": "BOSTON PREPARATORY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "1286 HYDE PARK AVENUE",
+    "City": "HYDE PARK",
+    "Zip Code": 2136,
+    "Telephone": 6173336688
+  },
+  {
+    "NCES LEA ID": 2500039,
+    "State ID": 481,
+    "District Name": "BOSTON RENAISSANCE CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "1415 HYDE PARK AVE",
+    "City": "HYDE PARK",
+    "Zip Code": 2136,
+    "Telephone": 6173570900
+  },
+  {
+    "NCES LEA ID": 2502820,
+    "State ID": 36,
+    "District Name": "BOURNE",
+    "Mailing Address": "36 SANDWICH RD",
+    "City": "BOURNE",
+    "Zip Code": 2532,
+    "Telephone": 5087590660
+  },
+  {
+    "NCES LEA ID": 2502850,
+    "State ID": 37,
+    "District Name": "BOXBOROUGH",
+    "Mailing Address": "493 MASSACHUSETTS AVENUE",
+    "City": "BOXBOROUGH",
+    "Zip Code": 1719,
+    "Telephone": 9782634569
+  },
+  {
+    "NCES LEA ID": 2502880,
+    "State ID": 38,
+    "District Name": "BOXFORD",
+    "Mailing Address": "28 MIDDLETON ROAD",
+    "City": "BOXFORD",
+    "Zip Code": 1921,
+    "Telephone": 9788870771
+  },
+  {
+    "NCES LEA ID": 2502910,
+    "State ID": 39,
+    "District Name": "BOYLSTON",
+    "Mailing Address": "215 MAIN STREET",
+    "City": "BOYLSTON",
+    "Zip Code": 1505,
+    "Telephone": 5088692837
+  },
+  {
+    "NCES LEA ID": 2502940,
+    "State ID": 40,
+    "District Name": "BRAINTREE",
+    "Mailing Address": "348 POND STREET",
+    "City": "BRAINTREE",
+    "Zip Code": 2184,
+    "Telephone": 7813800130
+  },
+  {
+    "NCES LEA ID": 2502970,
+    "State ID": 41,
+    "District Name": "BREWSTER",
+    "Mailing Address": "78 ELDREDGE PKWY",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082558800
+  },
+  {
+    "NCES LEA ID": 2500527,
+    "State ID": 417,
+    "District Name": "BRIDGE BOSTON CHARTER SCHOOL DISTRICT",
+    "Mailing Address": "633 Centre Street",
+    "City": "Jamaica Plain",
+    "Zip Code": 2124,
+    "Telephone": 8572291601
+  },
+  {
+    "NCES LEA ID": 2503030,
+    "State ID": 625,
+    "District Name": "BRIDGEWATER-RAYNHAM",
+    "Mailing Address": "166 MT. PROSPECT STREET",
+    "City": "BRIDGEWATER",
+    "Zip Code": 2324,
+    "Telephone": 5082792140
+  },
+  {
+    "NCES LEA ID": 2503060,
+    "State ID": 43,
+    "District Name": "BRIMFIELD",
+    "Mailing Address": "320A BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2503070,
+    "State ID": 910,
+    "District Name": "BRISTOL COUNTY AGRICULTURAL",
+    "Mailing Address": "135 CENTER STREET",
+    "City": "DIGHTON",
+    "Zip Code": 2715,
+    "Telephone": 5086696744
+  },
+  {
+    "NCES LEA ID": 2503080,
+    "State ID": 810,
+    "District Name": "BRISTOL-PLYMOUTH REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "940 COUNTY STREET",
+    "City": "TAUNTON",
+    "Zip Code": 2780,
+    "Telephone": 5088235151
+  },
+  {
+    "NCES LEA ID": 2503090,
+    "State ID": 44,
+    "District Name": "BROCKTON",
+    "Mailing Address": "43 CRESCENT STREET",
+    "City": "BROCKTON",
+    "Zip Code": 2301,
+    "Telephone": 5085807511
+  },
+  {
+    "NCES LEA ID": 2503120,
+    "State ID": 45,
+    "District Name": "BROOKFIELD",
+    "Mailing Address": "320 BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2503150,
+    "State ID": 46,
+    "District Name": "BROOKLINE",
+    "Mailing Address": "333 WASHINGTON STREET",
+    "City": "BROOKLINE",
+    "Zip Code": 2445,
+    "Telephone": 6177302403
+  },
+  {
+    "NCES LEA ID": 2503240,
+    "State ID": 48,
+    "District Name": "BURLINGTON",
+    "Mailing Address": "123 CAMBRIDGE STREET",
+    "City": "BURLINGTON",
+    "Zip Code": 1803,
+    "Telephone": 7812701801
+  },
+  {
+    "NCES LEA ID": 2503270,
+    "State ID": 49,
+    "District Name": "CAMBRIDGE",
+    "Mailing Address": "159 THORNDIKE STREET",
+    "City": "CAMBRIDGE",
+    "Zip Code": 2141,
+    "Telephone": 6173496494
+  },
+  {
+    "NCES LEA ID": 2503300,
+    "State ID": 50,
+    "District Name": "CANTON",
+    "Mailing Address": "960 WASHINGTON STREET",
+    "City": "CANTON",
+    "Zip Code": 2021,
+    "Telephone": 7818215060
+  },
+  {
+    "NCES LEA ID": 2500024,
+    "State ID": 432,
+    "District Name": "CAPE COD LIGHTHOUSE CHARTER (DISTRICT)",
+    "Mailing Address": "225 RTE 6A BAYBERRY SQUARE",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082402800
+  },
+  {
+    "NCES LEA ID": 2503310,
+    "State ID": 815,
+    "District Name": "CAPE COD REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "351 PLEASANT LAKE AVENUE",
+    "City": "HARWICH",
+    "Zip Code": 2645,
+    "Telephone": 5084324500
+  },
+  {
+    "NCES LEA ID": 2503330,
+    "State ID": 51,
+    "District Name": "CARLISLE",
+    "Mailing Address": "83 SCHOOL STREET",
+    "City": "CARLISLE",
+    "Zip Code": 1741,
+    "Telephone": 9783696550
+  },
+  {
+    "NCES LEA ID": 2503360,
+    "State ID": 52,
+    "District Name": "CARVER",
+    "Mailing Address": "3 CARVER SQUARE BLVD.",
+    "City": "CARVER",
+    "Zip Code": 2330,
+    "Telephone": 5088666160
+  },
+  {
+    "NCES LEA ID": 2503390,
+    "State ID": 635,
+    "District Name": "CENTRAL BERKSHIRE",
+    "Mailing Address": "PO BOX 299",
+    "City": "DALTON",
+    "Zip Code": 1227,
+    "Telephone": 4136840320
+  },
+  {
+    "NCES LEA ID": 2503480,
+    "State ID": 55,
+    "District Name": "CHATHAM",
+    "Mailing Address": "425 CROWELL RD",
+    "City": "CHATHAM",
+    "Zip Code": 2633,
+    "Telephone": 5089455130
+  },
+  {
+    "NCES LEA ID": 2503510,
+    "State ID": 56,
+    "District Name": "CHELMSFORD",
+    "Mailing Address": "230 NORTH ROAD",
+    "City": "CHELMSFORD",
+    "Zip Code": 1824,
+    "Telephone": 9782515100
+  },
+  {
+    "NCES LEA ID": 2503540,
+    "State ID": 57,
+    "District Name": "CHELSEA",
+    "Mailing Address": "500 BROADWAY STREET",
+    "City": "CHELSEA",
+    "Zip Code": 2150,
+    "Telephone": 6174664477
+  },
+  {
+    "NCES LEA ID": 2500014,
+    "State ID": 632,
+    "District Name": "CHESTERFIELD-GOSHEN",
+    "Mailing Address": "19 STAGE RD",
+    "City": "WESTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135277200
+  },
+  {
+    "NCES LEA ID": 2503660,
+    "State ID": 61,
+    "District Name": "CHICOPEE",
+    "Mailing Address": "180 BROADWAY STREET",
+    "City": "CHICOPEE",
+    "Zip Code": 1020,
+    "Telephone": 4135943410
+  },
+  {
+    "NCES LEA ID": 2500068,
+    "State ID": 418,
+    "District Name": "CHRISTA MCAULIFFE REGIONAL CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "25 CLINTON STREET",
+    "City": "FRAMINGHAM",
+    "Zip Code": 1702,
+    "Telephone": 5088799000
+  },
+  {
+    "NCES LEA ID": 2500026,
+    "State ID": 437,
+    "District Name": "CITY ON A HILL CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "58 CIRCUIT STREET",
+    "City": "ROXBURY",
+    "Zip Code": 2119,
+    "Telephone": 6174451515
+  },
+  {
+    "NCES LEA ID": 2503720,
+    "State ID": 63,
+    "District Name": "CLARKSBURG",
+    "Mailing Address": "777 WEST CROSSROAD",
+    "City": "CLARKSBURG",
+    "Zip Code": 1247,
+    "Telephone": 4136648735
+  },
+  {
+    "NCES LEA ID": 2503750,
+    "State ID": 64,
+    "District Name": "CLINTON",
+    "Mailing Address": "150 SCHOOL STREET",
+    "City": "CLINTON",
+    "Zip Code": 1510,
+    "Telephone": 9783654200
+  },
+  {
+    "NCES LEA ID": 2500070,
+    "State ID": 438,
+    "District Name": "CODMAN ACADEMY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "637 WASHINGTON STREET",
+    "City": "DORCHESTER",
+    "Zip Code": 2124,
+    "Telephone": 6172870700
+  },
+  {
+    "NCES LEA ID": 2503780,
+    "State ID": 65,
+    "District Name": "COHASSET",
+    "Mailing Address": "143 POND STREET",
+    "City": "COHASSET",
+    "Zip Code": 2025,
+    "Telephone": 7813836112
+  },
+  {
+    "NCES LEA ID": 2500086,
+    "State ID": 436,
+    "District Name": "COMMUNITY CHARTER SCHOOL OF CAMBRIDGE (DISTRICT)",
+    "Mailing Address": "245 BENT STREET",
+    "City": "CAMBRIDGE",
+    "Zip Code": 2141,
+    "Telephone": 6173540047
+  },
+  {
+    "NCES LEA ID": 2500027,
+    "State ID": 440,
+    "District Name": "COMMUNITY DAY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "190 HAMPSHIRE STREET",
+    "City": "LAWRENCE",
+    "Zip Code": 1840,
+    "Telephone": 9786826628
+  },
+  {
+    "NCES LEA ID": 2500538,
+    "State ID": "",
+    "District Name": "Community Day Charter Public School - Riverside (District)",
+    "Mailing Address": "75 Pleasant Street",
+    "City": "Lawrence",
+    "Zip Code": 1840,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2500535,
+    "State ID": "",
+    "District Name": "Community Day Charter Public School - South (District)",
+    "Mailing Address": "75 Pleasant Street",
+    "City": "Lawrence",
+    "Zip Code": 1840,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2503840,
+    "State ID": 67,
+    "District Name": "CONCORD",
+    "Mailing Address": "120 MERIAM RD",
+    "City": "CONCORD",
+    "Zip Code": 1742,
+    "Telephone": 9783181500
+  },
+  {
+    "NCES LEA ID": 2503870,
+    "State ID": 640,
+    "District Name": "CONCORD-CARLISLE",
+    "Mailing Address": "120 MERIAM RD",
+    "City": "CONCORD",
+    "Zip Code": 1742,
+    "Telephone": 9783412490
+  },
+  {
+    "NCES LEA ID": 2500060,
+    "State ID": 439,
+    "District Name": "CONSERVATORY LAB CHARTER (DISTRICT)",
+    "Mailing Address": "25 ARLINGTON STREET",
+    "City": "BRIGHTON",
+    "Zip Code": 2135,
+    "Telephone": 6172548904
+  },
+  {
+    "NCES LEA ID": 2503900,
+    "State ID": 68,
+    "District Name": "CONWAY",
+    "Mailing Address": "219 CHRISTIAN LN RFD1",
+    "City": "SOUTH DEERFIELD",
+    "Zip Code": 1373,
+    "Telephone": 4136651155
+  },
+  {
+    "NCES LEA ID": 2503990,
+    "State ID": 71,
+    "District Name": "DANVERS",
+    "Mailing Address": "64 CABOT ROAD",
+    "City": "DANVERS",
+    "Zip Code": 1923,
+    "Telephone": 9787774539
+  },
+  {
+    "NCES LEA ID": 2504020,
+    "State ID": 72,
+    "District Name": "DARTMOUTH",
+    "Mailing Address": "8 BUSH STREET",
+    "City": "DARTMOUTH",
+    "Zip Code": 2748,
+    "Telephone": 5089973391
+  },
+  {
+    "NCES LEA ID": 2504050,
+    "State ID": 73,
+    "District Name": "DEDHAM",
+    "Mailing Address": "100 WHITING AVENUE",
+    "City": "DEDHAM",
+    "Zip Code": 2026,
+    "Telephone": 7813265622
+  },
+  {
+    "NCES LEA ID": 2504080,
+    "State ID": 74,
+    "District Name": "DEERFIELD",
+    "Mailing Address": "219 CHRISTIAN LN RFD1",
+    "City": "SOUTH DEERFIELD",
+    "Zip Code": 1373,
+    "Telephone": 4136651155
+  },
+  {
+    "NCES LEA ID": 2504140,
+    "State ID": 645,
+    "District Name": "DENNIS-YARMOUTH",
+    "Mailing Address": "296 STATION AVENUE",
+    "City": "SOUTH YARMOUTH",
+    "Zip Code": 2664,
+    "Telephone": 5083987600
+  },
+  {
+    "NCES LEA ID": 2504200,
+    "State ID": 650,
+    "District Name": "DIGHTON-REHOBOTH",
+    "Mailing Address": "2700 REGIONAL ROAD",
+    "City": "NORTH DIGHTON",
+    "Zip Code": 2764,
+    "Telephone": 5082525000
+  },
+  {
+    "NCES LEA ID": 2500521,
+    "State ID": 475,
+    "District Name": "DORCHESTER COLLEGIATE ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "131 HANCOCK STREET",
+    "City": "DORCHESTER",
+    "Zip Code": 2125,
+    "Telephone": 6173793027
+  },
+  {
+    "NCES LEA ID": 2500540,
+    "State ID": "",
+    "District Name": "Dorchester Preparatory Charter School (District)",
+    "Mailing Address": "75 Pleasant Street",
+    "City": "Boston",
+    "Zip Code": 2108,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2504230,
+    "State ID": 77,
+    "District Name": "DOUGLAS",
+    "Mailing Address": "21 DAVIS STREET",
+    "City": "DOUGLAS",
+    "Zip Code": 1516,
+    "Telephone": 5084767901
+  },
+  {
+    "NCES LEA ID": 2504260,
+    "State ID": 78,
+    "District Name": "DOVER",
+    "Mailing Address": "157 FARM STREET",
+    "City": "DOVER",
+    "Zip Code": 2030,
+    "Telephone": 5087850036
+  },
+  {
+    "NCES LEA ID": 2504290,
+    "State ID": 655,
+    "District Name": "DOVER-SHERBORN",
+    "Mailing Address": "157 FARM STREET",
+    "City": "DOVER",
+    "Zip Code": 2030,
+    "Telephone": 5087850036
+  },
+  {
+    "NCES LEA ID": 2504320,
+    "State ID": 79,
+    "District Name": "DRACUT",
+    "Mailing Address": "2063 LAKEVIEW AVENUE",
+    "City": "DRACUT",
+    "Zip Code": 1826,
+    "Telephone": 9789572660
+  },
+  {
+    "NCES LEA ID": 2504360,
+    "State ID": 658,
+    "District Name": "DUDLEY-CHARLTON REG",
+    "Mailing Address": "68 DUDLEY OXFORD ROAD",
+    "City": "DUDLEY",
+    "Zip Code": 1571,
+    "Telephone": 5089436888
+  },
+  {
+    "NCES LEA ID": 2504410,
+    "State ID": 82,
+    "District Name": "DUXBURY",
+    "Mailing Address": "130 ST. GEORGE STREET",
+    "City": "DUXBURY",
+    "Zip Code": 2332,
+    "Telephone": 7819347600
+  },
+  {
+    "NCES LEA ID": 2504440,
+    "State ID": 83,
+    "District Name": "EAST BRIDGEWATER",
+    "Mailing Address": "11 PLYMOUTH STREET",
+    "City": "EAST BRIDGEWATER",
+    "Zip Code": 2333,
+    "Telephone": 5083788200
+  },
+  {
+    "NCES LEA ID": 2504500,
+    "State ID": 87,
+    "District Name": "EAST LONGMEADOW",
+    "Mailing Address": "180 MAPLE STREET",
+    "City": "EAST LONGMEADOW",
+    "Zip Code": 1028,
+    "Telephone": 4135255450
+  },
+  {
+    "NCES LEA ID": 2504530,
+    "State ID": 85,
+    "District Name": "EASTHAM",
+    "Mailing Address": "78 ELDREDGE PKWY",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082558800
+  },
+  {
+    "NCES LEA ID": 2504590,
+    "State ID": 86,
+    "District Name": "EASTHAMPTON",
+    "Mailing Address": "50 PAYSON AVENUE",
+    "City": "EASTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135291500
+  },
+  {
+    "NCES LEA ID": 2504620,
+    "State ID": 88,
+    "District Name": "EASTON",
+    "Mailing Address": "PO BOX 359",
+    "City": "NORTH EASTON",
+    "Zip Code": 2356,
+    "Telephone": 5082303200
+  },
+  {
+    "NCES LEA ID": 2509090,
+    "State ID": 89,
+    "District Name": "EDGARTOWN",
+    "Mailing Address": "4 PINE STREET",
+    "City": "VINEYARD HAVEN",
+    "Zip Code": 2568,
+    "Telephone": 5086932007
+  },
+  {
+    "NCES LEA ID": 2500071,
+    "State ID": 428,
+    "District Name": "EDWARD BROOKE CHARTER (DISTRICT)",
+    "Mailing Address": "190 CUMMINS HIGHWAY",
+    "City": "ROSLINDALE",
+    "Zip Code": 2131,
+    "Telephone": 6173257977
+  },
+  {
+    "NCES LEA ID": 2500054,
+    "State ID": 452,
+    "District Name": "EDWARD M. KENNEDY ACADEMY FOR HEALTH CAREERS (HORACE MANN CH",
+    "Mailing Address": "360 HUNTINGTON AVENUE",
+    "City": "BOSTON",
+    "Zip Code": 2115,
+    "Telephone": 6173738576
+  },
+  {
+    "NCES LEA ID": 2500528,
+    "State ID": 443,
+    "District Name": "EDWARD W. BROOKE CHARTER SCHOOL 2 DISTRICT",
+    "Mailing Address": "7 Elkins Street",
+    "City": "Boston",
+    "Zip Code": 2131,
+    "Telephone": 6172681006
+  },
+  {
+    "NCES LEA ID": 2500539,
+    "State ID": "",
+    "District Name": "Edward W. Brooke Charter School 3 (District)",
+    "Mailing Address": "75 Pleasant Street",
+    "City": "Boston",
+    "Zip Code": 2108,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2504710,
+    "State ID": 91,
+    "District Name": "ERVING",
+    "Mailing Address": "18 PLEASANT STREET",
+    "City": "ERVING",
+    "Zip Code": 1344,
+    "Telephone": 4134233337
+  },
+  {
+    "NCES LEA ID": 2504750,
+    "State ID": 913,
+    "District Name": "ESSEX AGRICULTURAL TECHNICAL",
+    "Mailing Address": "PO BOX 362",
+    "City": "HATHORNE",
+    "Zip Code": 1937,
+    "Telephone": 9787740050
+  },
+  {
+    "NCES LEA ID": 2504770,
+    "State ID": 93,
+    "District Name": "EVERETT",
+    "Mailing Address": "121 VINE STREET",
+    "City": "EVERETT",
+    "Zip Code": 2149,
+    "Telephone": 6173897950
+  },
+  {
+    "NCES LEA ID": 2500075,
+    "State ID": 410,
+    "District Name": "EXCEL ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "1150 SARATOGA STREET",
+    "City": "EAST BOSTON",
+    "Zip Code": 2128,
+    "Telephone": 6175611371
+  },
+  {
+    "NCES LEA ID": 2500534,
+    "State ID": "",
+    "District Name": "Excel Academy Charter School - Boston II (District)",
+    "Mailing Address": "1150 Saratoga Street",
+    "City": "Boston",
+    "Zip Code": 2128,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2500529,
+    "State ID": 461,
+    "District Name": "EXCEL ACADEMY CHARTER SCHOOL - CHELSEA DISTRICT",
+    "Mailing Address": "180 Second Street",
+    "City": "Chelsea",
+    "Zip Code": 2128,
+    "Telephone": 6178958029
+  },
+  {
+    "NCES LEA ID": 2504800,
+    "State ID": 94,
+    "District Name": "FAIRHAVEN",
+    "Mailing Address": "128 WASHINGTON STREET",
+    "City": "FAIRHAVEN",
+    "Zip Code": 2719,
+    "Telephone": 5089794000
+  },
+  {
+    "NCES LEA ID": 2504830,
+    "State ID": 95,
+    "District Name": "FALL RIVER",
+    "Mailing Address": "417 ROCK STREET",
+    "City": "FALL RIVER",
+    "Zip Code": 2720,
+    "Telephone": 5086758420
+  },
+  {
+    "NCES LEA ID": 2504860,
+    "State ID": 96,
+    "District Name": "FALMOUTH",
+    "Mailing Address": "340 TEATICKET HWY",
+    "City": "EAST FALMOUTH",
+    "Zip Code": 2536,
+    "Telephone": 5085480151
+  },
+  {
+    "NCES LEA ID": 2513321,
+    "State ID": 662,
+    "District Name": "FARMINGTON RIVER REG",
+    "Mailing Address": "555 N MAIN STREET",
+    "City": "OTIS",
+    "Zip Code": 1253,
+    "Telephone": 4132694466
+  },
+  {
+    "NCES LEA ID": 2504890,
+    "State ID": 97,
+    "District Name": "FITCHBURG",
+    "Mailing Address": "376 SOUTH STREET",
+    "City": "FITCHBURG",
+    "Zip Code": 1420,
+    "Telephone": 9783453200
+  },
+  {
+    "NCES LEA ID": 2504920,
+    "State ID": 98,
+    "District Name": "FLORIDA",
+    "Mailing Address": "56 NORTH COUNTY RD",
+    "City": "FLORIDA",
+    "Zip Code": 1247,
+    "Telephone": 4136646023
+  },
+  {
+    "NCES LEA ID": 2500076,
+    "State ID": 413,
+    "District Name": "FOUR RIVERS CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "248 COLRAIN ROAD",
+    "City": "GREENFIELD",
+    "Zip Code": 1301,
+    "Telephone": 4137754577
+  },
+  {
+    "NCES LEA ID": 2504950,
+    "State ID": 99,
+    "District Name": "FOXBOROUGH",
+    "Mailing Address": "60 SOUTH STREET",
+    "City": "FOXBOROUGH",
+    "Zip Code": 2035,
+    "Telephone": 5085431660
+  },
+  {
+    "NCES LEA ID": 2500052,
+    "State ID": 446,
+    "District Name": "FOXBOROUGH REGIONAL CHARTER (DISTRICT)",
+    "Mailing Address": "131 CENTRAL STREET",
+    "City": "FOXBOROUGH",
+    "Zip Code": 2035,
+    "Telephone": 5085432508
+  },
+  {
+    "NCES LEA ID": 2504980,
+    "State ID": 100,
+    "District Name": "FRAMINGHAM",
+    "Mailing Address": "31 FLAGG DRIVE",
+    "City": "FRAMINGHAM",
+    "Zip Code": 1702,
+    "Telephone": 5086269117
+  },
+  {
+    "NCES LEA ID": 2500038,
+    "State ID": 478,
+    "District Name": "FRANCIS W. PARKER CHARTER ESSENTIAL (DISTRICT)",
+    "Mailing Address": "49 ANTIETAM STREET",
+    "City": "DEVENS",
+    "Zip Code": 1434,
+    "Telephone": 9787723293
+  },
+  {
+    "NCES LEA ID": 2505010,
+    "State ID": 101,
+    "District Name": "FRANKLIN",
+    "Mailing Address": "355 EAST CENTRAL STREET",
+    "City": "FRANKLIN",
+    "Zip Code": 2038,
+    "Telephone": 5085415243
+  },
+  {
+    "NCES LEA ID": 2505020,
+    "State ID": 818,
+    "District Name": "FRANKLIN COUNTY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "82 INDUSTRIAL BLVD",
+    "City": "TURNERS FALLS",
+    "Zip Code": 1376,
+    "Telephone": 4138634239
+  },
+  {
+    "NCES LEA ID": 2505070,
+    "State ID": 665,
+    "District Name": "FREETOWN-LAKEVILLE",
+    "Mailing Address": "98 HOWLAND RD",
+    "City": "LAKEVILLE",
+    "Zip Code": 2347,
+    "Telephone": 5089232000
+  },
+  {
+    "NCES LEA ID": 2505100,
+    "State ID": 670,
+    "District Name": "FRONTIER",
+    "Mailing Address": "219 CHRISTIAN LN RFD1",
+    "City": "SOUTH DEERFIELD",
+    "Zip Code": 1373,
+    "Telephone": 4136651155
+  },
+  {
+    "NCES LEA ID": 2505130,
+    "State ID": 103,
+    "District Name": "GARDNER",
+    "Mailing Address": "70 WATERFORD STREET",
+    "City": "GARDNER",
+    "Zip Code": 1440,
+    "Telephone": 9786321000
+  },
+  {
+    "NCES LEA ID": 2505160,
+    "State ID": 672,
+    "District Name": "GATEWAY",
+    "Mailing Address": "12 LITTLEVILLE ROAD",
+    "City": "HUNTINGTON",
+    "Zip Code": 1050,
+    "Telephone": 4136851000
+  },
+  {
+    "NCES LEA ID": 2505220,
+    "State ID": 105,
+    "District Name": "GEORGETOWN",
+    "Mailing Address": "51 NORTH STREET",
+    "City": "GEORGETOWN",
+    "Zip Code": 1833,
+    "Telephone": 9783525777
+  },
+  {
+    "NCES LEA ID": 2505270,
+    "State ID": 674,
+    "District Name": "GILL-MONTAGUE",
+    "Mailing Address": "35 CROCKER AVENUE",
+    "City": "TURNERS FALLS",
+    "Zip Code": 1376,
+    "Telephone": 4138639324
+  },
+  {
+    "NCES LEA ID": 2500519,
+    "State ID": 496,
+    "District Name": "GLOBAL LEARNING CHARTER PUBLIC  (DISTRICT)",
+    "Mailing Address": "190 ASHLEY BOULEVARD",
+    "City": "NEW BEDFORD",
+    "Zip Code": 2746,
+    "Telephone": 5089914105
+  },
+  {
+    "NCES LEA ID": 2505280,
+    "State ID": 107,
+    "District Name": "GLOUCESTER",
+    "Mailing Address": "6 SCHOOL HOUSE RD",
+    "City": "GLOUCESTER",
+    "Zip Code": 1930,
+    "Telephone": 9782819800
+  },
+  {
+    "NCES LEA ID": 2500524,
+    "State ID": 448,
+    "District Name": "GLOUCESTER COMMUNITY ARTS CHARTER (DISTRICT)",
+    "Mailing Address": "PO BOX 1631",
+    "City": "GLOUCESTER",
+    "Zip Code": 1930,
+    "Telephone": 9785259093
+  },
+  {
+    "NCES LEA ID": 2505340,
+    "State ID": 109,
+    "District Name": "GOSNOLD",
+    "Mailing Address": "16 WILLIAMS STREET",
+    "City": "REHOBOTH",
+    "Zip Code": 2769,
+    "Telephone": 5082524272
+  },
+  {
+    "NCES LEA ID": 2505370,
+    "State ID": 110,
+    "District Name": "GRAFTON",
+    "Mailing Address": "30 PROVIDENCE RD",
+    "City": "GRAFTON",
+    "Zip Code": 1519,
+    "Telephone": 5088395421
+  },
+  {
+    "NCES LEA ID": 2505400,
+    "State ID": 111,
+    "District Name": "GRANBY",
+    "Mailing Address": "387 EAST STATE STREET",
+    "City": "GRANBY",
+    "Zip Code": 1033,
+    "Telephone": 4134677193
+  },
+  {
+    "NCES LEA ID": 2505430,
+    "State ID": 112,
+    "District Name": "GRANVILLE",
+    "Mailing Address": "86 POWDER MILL ROAD",
+    "City": "SOUTHWICK",
+    "Zip Code": 1077,
+    "Telephone": 4135695391
+  },
+  {
+    "NCES LEA ID": 2505485,
+    "State ID": 821,
+    "District Name": "GREATER FALL RIVER REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "251 STONEHAVEN RD",
+    "City": "FALL RIVER",
+    "Zip Code": 2723,
+    "Telephone": 5086782891
+  },
+  {
+    "NCES LEA ID": 2505470,
+    "State ID": 823,
+    "District Name": "GREATER LAWRENCE REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "57 RIVER RD",
+    "City": "ANDOVER",
+    "Zip Code": 1810,
+    "Telephone": 9786860194
+  },
+  {
+    "NCES LEA ID": 2505480,
+    "State ID": 828,
+    "District Name": "GREATER LOWELL REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "250 PAWTUCKET BLVD",
+    "City": "TYNGSBOROUGH",
+    "Zip Code": 1879,
+    "Telephone": 9784414800
+  },
+  {
+    "NCES LEA ID": 2508440,
+    "State ID": 825,
+    "District Name": "GREATER NEW BEDFORD REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "1121 ASHLEY BLVD",
+    "City": "NEW BEDFORD",
+    "Zip Code": 2745,
+    "Telephone": 5089983321
+  },
+  {
+    "NCES LEA ID": 2505490,
+    "State ID": 114,
+    "District Name": "GREENFIELD",
+    "Mailing Address": "141 DAVIS STREET",
+    "City": "GREENFIELD",
+    "Zip Code": 1301,
+    "Telephone": 4137721311
+  },
+  {
+    "NCES LEA ID": 2505500,
+    "State ID": 673,
+    "District Name": "GROTON-DUNSTABLE",
+    "Mailing Address": "P O BOX 729",
+    "City": "GROTON",
+    "Zip Code": 1450,
+    "Telephone": 9784485505
+  },
+  {
+    "NCES LEA ID": 2500530,
+    "State ID": 462,
+    "District Name": "GROVE HALL PREPARATORY CHARTER SCHOOL DISTRICT",
+    "Mailing Address": "214 Harvard Street",
+    "City": "Dorchester",
+    "Zip Code": 2120,
+    "Telephone": 6179790115
+  },
+  {
+    "NCES LEA ID": 2505580,
+    "State ID": 117,
+    "District Name": "HADLEY",
+    "Mailing Address": "125 RUSSELL STREET",
+    "City": "HADLEY",
+    "Zip Code": 1035,
+    "Telephone": 4135860822
+  },
+  {
+    "NCES LEA ID": 2505610,
+    "State ID": 118,
+    "District Name": "HALIFAX",
+    "Mailing Address": "250 PEMBROKE STREET",
+    "City": "KINGSTON",
+    "Zip Code": 2364,
+    "Telephone": 7815854313
+  },
+  {
+    "NCES LEA ID": 2505670,
+    "State ID": 675,
+    "District Name": "HAMILTON-WENHAM",
+    "Mailing Address": "5 SCHOOL STREET",
+    "City": "WENHAM",
+    "Zip Code": 1984,
+    "Telephone": 9784685310
+  },
+  {
+    "NCES LEA ID": 2500522,
+    "State ID": 499,
+    "District Name": "HAMPDEN CHARTER SCHOOL OF SCIENCE (DISTRICT)",
+    "Mailing Address": "20 JOHNSON ROAD",
+    "City": "CHICOPEE",
+    "Zip Code": 1022,
+    "Telephone": 4135939090
+  },
+  {
+    "NCES LEA ID": 2505730,
+    "State ID": 680,
+    "District Name": "HAMPDEN-WILBRAHAM",
+    "Mailing Address": "621 MAIN STREET",
+    "City": "WILBRAHAM",
+    "Zip Code": 1095,
+    "Telephone": 4135963884
+  },
+  {
+    "NCES LEA ID": 2505740,
+    "State ID": 683,
+    "District Name": "HAMPSHIRE",
+    "Mailing Address": "19 STAGE RD",
+    "City": "WESTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135277200
+  },
+  {
+    "NCES LEA ID": 2505760,
+    "State ID": 121,
+    "District Name": "HANCOCK",
+    "Mailing Address": "1831 STATE ROAD",
+    "City": "RICHMOND",
+    "Zip Code": 1254,
+    "Telephone": 4136984001
+  },
+  {
+    "NCES LEA ID": 2505790,
+    "State ID": 122,
+    "District Name": "HANOVER",
+    "Mailing Address": "188 BROADWAY STREET",
+    "City": "HANOVER",
+    "Zip Code": 2339,
+    "Telephone": 7818780786
+  },
+  {
+    "NCES LEA ID": 2505880,
+    "State ID": 125,
+    "District Name": "HARVARD",
+    "Mailing Address": "39 MASSACHUSETTS AVENUE",
+    "City": "HARVARD",
+    "Zip Code": 1451,
+    "Telephone": 9784564140
+  },
+  {
+    "NCES LEA ID": 2505910,
+    "State ID": 126,
+    "District Name": "HARWICH",
+    "Mailing Address": "81 OAK STREET",
+    "City": "HARWICH",
+    "Zip Code": 2645,
+    "Telephone": 5084307200
+  },
+  {
+    "NCES LEA ID": 2505940,
+    "State ID": 127,
+    "District Name": "HATFIELD",
+    "Mailing Address": "34 SCHOOL STREET",
+    "City": "HATFIELD",
+    "Zip Code": 1038,
+    "Telephone": 4132475641
+  },
+  {
+    "NCES LEA ID": 2505970,
+    "State ID": 128,
+    "District Name": "HAVERHILL",
+    "Mailing Address": "4 SUMMER STREET",
+    "City": "HAVERHILL",
+    "Zip Code": 1830,
+    "Telephone": 9783743405
+  },
+  {
+    "NCES LEA ID": 2506000,
+    "State ID": 685,
+    "District Name": "HAWLEMONT",
+    "Mailing Address": "24 ASHFIELD RD",
+    "City": "SHELBURNE FALLS",
+    "Zip Code": 1370,
+    "Telephone": 4136250192
+  },
+  {
+    "NCES LEA ID": 2500083,
+    "State ID": 455,
+    "District Name": "HILL VIEW MONTESSORI CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "75 FOUNDATION AVE",
+    "City": "HAVERHILL",
+    "Zip Code": 1835,
+    "Telephone": 9785212616
+  },
+  {
+    "NCES LEA ID": 2500031,
+    "State ID": 450,
+    "District Name": "HILLTOWN COOPERATIVE CHARTER  PUBLIC (DISTRICT)",
+    "Mailing Address": "132 MAIN STREET",
+    "City": "HAYDENVILLE",
+    "Zip Code": 1039,
+    "Telephone": 4132683421
+  },
+  {
+    "NCES LEA ID": 2506090,
+    "State ID": 131,
+    "District Name": "HINGHAM",
+    "Mailing Address": "220 CENTRAL STREET",
+    "City": "HINGHAM",
+    "Zip Code": 2043,
+    "Telephone": 7817411500
+  },
+  {
+    "NCES LEA ID": 2506150,
+    "State ID": 133,
+    "District Name": "HOLBROOK",
+    "Mailing Address": "245 SO. FRANKLIN STREET",
+    "City": "HOLBROOK",
+    "Zip Code": 2343,
+    "Telephone": 7817671226
+  },
+  {
+    "NCES LEA ID": 2506210,
+    "State ID": 135,
+    "District Name": "HOLLAND",
+    "Mailing Address": "320 BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2506240,
+    "State ID": 136,
+    "District Name": "HOLLISTON",
+    "Mailing Address": "370 HOLLIS STREET",
+    "City": "HOLLISTON",
+    "Zip Code": 1746,
+    "Telephone": 5084290654
+  },
+  {
+    "NCES LEA ID": 2506270,
+    "State ID": 137,
+    "District Name": "HOLYOKE",
+    "Mailing Address": "57 SUFFOLK STREET",
+    "City": "HOLYOKE",
+    "Zip Code": 1040,
+    "Telephone": 4135342005
+  },
+  {
+    "NCES LEA ID": 2500087,
+    "State ID": 453,
+    "District Name": "HOLYOKE COMMUNITY CHARTER (DISTRICT)",
+    "Mailing Address": "2200 NORTHAMPTON ST.",
+    "City": "HOLYOKE",
+    "Zip Code": 1040,
+    "Telephone": 4135330111
+  },
+  {
+    "NCES LEA ID": 2506300,
+    "State ID": 138,
+    "District Name": "HOPEDALE",
+    "Mailing Address": "25 ADIN STREET",
+    "City": "HOPEDALE",
+    "Zip Code": 1747,
+    "Telephone": 5086342220
+  },
+  {
+    "NCES LEA ID": 2506330,
+    "State ID": 139,
+    "District Name": "HOPKINTON",
+    "Mailing Address": "89 HAYDEN ROWE STREET",
+    "City": "HOPKINTON",
+    "Zip Code": 1748,
+    "Telephone": 5084179360
+  },
+  {
+    "NCES LEA ID": 2506390,
+    "State ID": 141,
+    "District Name": "HUDSON",
+    "Mailing Address": "155 APSLEY STREET",
+    "City": "HUDSON",
+    "Zip Code": 1749,
+    "Telephone": 9785676100
+  },
+  {
+    "NCES LEA ID": 2506420,
+    "State ID": 142,
+    "District Name": "HULL",
+    "Mailing Address": "180 HARBORVIEW ROAD",
+    "City": "HULL",
+    "Zip Code": 2045,
+    "Telephone": 7819254400
+  },
+  {
+    "NCES LEA ID": 2500025,
+    "State ID": 435,
+    "District Name": "INNOVATION ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "72 TYNG ROAD",
+    "City": "TYNGSBOROUGH",
+    "Zip Code": 1879,
+    "Telephone": 9786490432
+  },
+  {
+    "NCES LEA ID": 2511150,
+    "State ID": 370,
+    "District Name": "INSTITUTIONAL SCHOOLS",
+    "Mailing Address": "75 PLEASANT STREET",
+    "City": "MALDEN",
+    "Zip Code": 2148,
+    "Telephone": 7813383303
+  },
+  {
+    "NCES LEA ID": 2506480,
+    "State ID": 144,
+    "District Name": "IPSWICH",
+    "Mailing Address": "1 LORD SQUARE",
+    "City": "IPSWICH",
+    "Zip Code": 1938,
+    "Telephone": 9783562935
+  },
+  {
+    "NCES LEA ID": 2506510,
+    "State ID": 690,
+    "District Name": "KING PHILIP",
+    "Mailing Address": "18 KING STREET",
+    "City": "NORFOLK",
+    "Zip Code": 2056,
+    "Telephone": 5085207991
+  },
+  {
+    "NCES LEA ID": 2506540,
+    "State ID": 145,
+    "District Name": "KINGSTON",
+    "Mailing Address": "250 PEMBROKE STREET",
+    "City": "KINGSTON",
+    "Zip Code": 2364,
+    "Telephone": 7815854313
+  },
+  {
+    "NCES LEA ID": 2500537,
+    "State ID": "",
+    "District Name": "KIPP Academy Boston Charter School (District)",
+    "Mailing Address": "75 Pleasant Street",
+    "City": "Boston",
+    "Zip Code": 2108,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2500082,
+    "State ID": 429,
+    "District Name": "KIPP ACADEMY LYNN CHARTER (DISTRICT)",
+    "Mailing Address": "25 BESSOM STREET",
+    "City": "LYNN",
+    "Zip Code": 1902,
+    "Telephone": 7815981609
+  },
+  {
+    "NCES LEA ID": 2506630,
+    "State ID": 148,
+    "District Name": "LANESBOROUGH",
+    "Mailing Address": "188 SUMMER STREET",
+    "City": "LANESBOROUGH",
+    "Zip Code": 1237,
+    "Telephone": 4134585840
+  },
+  {
+    "NCES LEA ID": 2506660,
+    "State ID": 149,
+    "District Name": "LAWRENCE",
+    "Mailing Address": "255 ESSEX STREET",
+    "City": "LAWRENCE",
+    "Zip Code": 1840,
+    "Telephone": 9789755900
+  },
+  {
+    "NCES LEA ID": 2500032,
+    "State ID": 454,
+    "District Name": "LAWRENCE FAMILY DEVELOPMENT CHARTER (DISTRICT)",
+    "Mailing Address": "34 WEST STREET",
+    "City": "LAWRENCE",
+    "Zip Code": 1841,
+    "Telephone": 9786899863
+  },
+  {
+    "NCES LEA ID": 2506690,
+    "State ID": 150,
+    "District Name": "LEE",
+    "Mailing Address": "480 PLEASANT STREET",
+    "City": "LEE",
+    "Zip Code": 1238,
+    "Telephone": 4132430276
+  },
+  {
+    "NCES LEA ID": 2506720,
+    "State ID": 151,
+    "District Name": "LEICESTER",
+    "Mailing Address": "1078 MAIN STREET",
+    "City": "LEICESTER",
+    "Zip Code": 1524,
+    "Telephone": 5088927040
+  },
+  {
+    "NCES LEA ID": 2506750,
+    "State ID": 152,
+    "District Name": "LENOX",
+    "Mailing Address": "6 WALKER STREET",
+    "City": "LENOX",
+    "Zip Code": 1240,
+    "Telephone": 4136375550
+  },
+  {
+    "NCES LEA ID": 2506780,
+    "State ID": 153,
+    "District Name": "LEOMINSTER",
+    "Mailing Address": "24 CHURCH STREET",
+    "City": "LEOMINSTER",
+    "Zip Code": 1453,
+    "Telephone": 9785347700
+  },
+  {
+    "NCES LEA ID": 2506810,
+    "State ID": 154,
+    "District Name": "LEVERETT",
+    "Mailing Address": "18 PLEASANT STREET",
+    "City": "ERVING",
+    "Zip Code": 1344,
+    "Telephone": 4134233337
+  },
+  {
+    "NCES LEA ID": 2506840,
+    "State ID": 155,
+    "District Name": "LEXINGTON",
+    "Mailing Address": "146 MAPLE STREET",
+    "City": "LEXINGTON",
+    "Zip Code": 2420,
+    "Telephone": 7818612550
+  },
+  {
+    "NCES LEA ID": 2506900,
+    "State ID": 157,
+    "District Name": "LINCOLN",
+    "Mailing Address": "1 BALLFIELD ROAD",
+    "City": "LINCOLN",
+    "Zip Code": 1773,
+    "Telephone": 7812599409
+  },
+  {
+    "NCES LEA ID": 2506930,
+    "State ID": 695,
+    "District Name": "LINCOLN-SUDBURY",
+    "Mailing Address": "390 LINCOLN RD",
+    "City": "SUDBURY",
+    "Zip Code": 1776,
+    "Telephone": 9784439961
+  },
+  {
+    "NCES LEA ID": 2506960,
+    "State ID": 158,
+    "District Name": "LITTLETON",
+    "Mailing Address": "PO BOX 1486",
+    "City": "LITTLETON",
+    "Zip Code": 1460,
+    "Telephone": 9784868951
+  },
+  {
+    "NCES LEA ID": 2506990,
+    "State ID": 159,
+    "District Name": "LONGMEADOW",
+    "Mailing Address": "127 GRASSY GUTTER RD",
+    "City": "LONGMEADOW",
+    "Zip Code": 1106,
+    "Telephone": 4135654200
+  },
+  {
+    "NCES LEA ID": 2507020,
+    "State ID": 160,
+    "District Name": "LOWELL",
+    "Mailing Address": "43 HIGHLAND STREET",
+    "City": "LOWELL",
+    "Zip Code": 1852,
+    "Telephone": 9786744324
+  },
+  {
+    "NCES LEA ID": 2500065,
+    "State ID": 456,
+    "District Name": "LOWELL COMMUNITY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "206 JACKSON STREET",
+    "City": "LOWELL",
+    "Zip Code": 1852,
+    "Telephone": 9783230800
+  },
+  {
+    "NCES LEA ID": 2500033,
+    "State ID": 458,
+    "District Name": "LOWELL MIDDLESEX ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "67 MIDDLE ST",
+    "City": "LOWELL",
+    "Zip Code": 1852,
+    "Telephone": 9786563165
+  },
+  {
+    "NCES LEA ID": 2507050,
+    "State ID": 161,
+    "District Name": "LUDLOW",
+    "Mailing Address": "63 CHESTNUT STREET",
+    "City": "LUDLOW",
+    "Zip Code": 1056,
+    "Telephone": 4135838372
+  },
+  {
+    "NCES LEA ID": 2507080,
+    "State ID": 162,
+    "District Name": "LUNENBURG",
+    "Mailing Address": "1025 MASS AVENUE",
+    "City": "LUNENBURG",
+    "Zip Code": 1462,
+    "Telephone": 9785824100
+  },
+  {
+    "NCES LEA ID": 2507110,
+    "State ID": 163,
+    "District Name": "LYNN",
+    "Mailing Address": "90 COMMERCIAL STREET",
+    "City": "LYNN",
+    "Zip Code": 1905,
+    "Telephone": 7815931680
+  },
+  {
+    "NCES LEA ID": 2507140,
+    "State ID": 164,
+    "District Name": "LYNNFIELD",
+    "Mailing Address": "55 SUMMER STREET",
+    "City": "LYNNFIELD",
+    "Zip Code": 1940,
+    "Telephone": 7813345800
+  },
+  {
+    "NCES LEA ID": 2500036,
+    "State ID": 468,
+    "District Name": "MA ACADEMY FOR MATH AND SCIENCE",
+    "Mailing Address": "85 PRESCOTT STREET",
+    "City": "WORCESTER",
+    "Zip Code": 1605,
+    "Telephone": 5088315859
+  },
+  {
+    "NCES LEA ID": 2507170,
+    "State ID": 165,
+    "District Name": "MALDEN",
+    "Mailing Address": "200 PLEASANT STREET",
+    "City": "MALDEN",
+    "Zip Code": 2148,
+    "Telephone": 7813977204
+  },
+  {
+    "NCES LEA ID": 2500067,
+    "State ID": 698,
+    "District Name": "MANCHESTER ESSEX REGIONAL",
+    "Mailing Address": "PO BOX 1407",
+    "City": "MANCHESTER",
+    "Zip Code": 1944,
+    "Telephone": 9785264919
+  },
+  {
+    "NCES LEA ID": 2507230,
+    "State ID": 167,
+    "District Name": "MANSFIELD",
+    "Mailing Address": "2 PARK ROW",
+    "City": "MANSFIELD",
+    "Zip Code": 2048,
+    "Telephone": 5082617500
+  },
+  {
+    "NCES LEA ID": 2507260,
+    "State ID": 168,
+    "District Name": "MARBLEHEAD",
+    "Mailing Address": "9 WIDGER ROAD",
+    "City": "MARBLEHEAD",
+    "Zip Code": 1945,
+    "Telephone": 7816393141
+  },
+  {
+    "NCES LEA ID": 2500034,
+    "State ID": 464,
+    "District Name": "MARBLEHEAD COMMUNITY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "17 LIME STREET",
+    "City": "MARBLEHEAD",
+    "Zip Code": 1945,
+    "Telephone": 7816310777
+  },
+  {
+    "NCES LEA ID": 2507290,
+    "State ID": 169,
+    "District Name": "MARION",
+    "Mailing Address": "135 MARION RD",
+    "City": "MATTAPOISETT",
+    "Zip Code": 2739,
+    "Telephone": 5087582772
+  },
+  {
+    "NCES LEA ID": 2507320,
+    "State ID": 170,
+    "District Name": "MARLBOROUGH",
+    "Mailing Address": "17 WASHINGTON STREET",
+    "City": "MARLBOROUGH",
+    "Zip Code": 1752,
+    "Telephone": 5084603509
+  },
+  {
+    "NCES LEA ID": 2507350,
+    "State ID": 171,
+    "District Name": "MARSHFIELD",
+    "Mailing Address": "76 SOUTH RIVER STREET",
+    "City": "MARSHFIELD",
+    "Zip Code": 2050,
+    "Telephone": 7818345000
+  },
+  {
+    "NCES LEA ID": 2507380,
+    "State ID": 700,
+    "District Name": "MARTHAS VINEYARD",
+    "Mailing Address": "4 PINE STREET",
+    "City": "VINEYARD HAVEN",
+    "Zip Code": 2568,
+    "Telephone": 5086932007
+  },
+  {
+    "NCES LEA ID": 2500035,
+    "State ID": 466,
+    "District Name": "MARTHA'S VINEYARD CHARTER (DISTRICT)",
+    "Mailing Address": "PO BOX 1150",
+    "City": "WEST TISBURY",
+    "Zip Code": 2575,
+    "Telephone": 5086939900
+  },
+  {
+    "NCES LEA ID": 2500089,
+    "State ID": 492,
+    "District Name": "MARTIN LUTHER KING JR. CHARTER SCHOOL OF EXCELLENCE (DISTRIC",
+    "Mailing Address": "285 DORSET STREET",
+    "City": "SPRINGFIELD",
+    "Zip Code": 1108,
+    "Telephone": 4132147806
+  },
+  {
+    "NCES LEA ID": 2507410,
+    "State ID": 705,
+    "District Name": "MASCONOMET",
+    "Mailing Address": "20 ENDICOTT RD",
+    "City": "TOPSFIELD",
+    "Zip Code": 1983,
+    "Telephone": 9788872323
+  },
+  {
+    "NCES LEA ID": 2507440,
+    "State ID": 172,
+    "District Name": "MASHPEE",
+    "Mailing Address": "150-A OLD BARNSTABLE ROAD",
+    "City": "MASHPEE",
+    "Zip Code": 2649,
+    "Telephone": 5085391500
+  },
+  {
+    "NCES LEA ID": 2500066,
+    "State ID": 469,
+    "District Name": "MATCH CHARTER PUBLIC SCHOOL (DISTRICT)",
+    "Mailing Address": "1001 COMMONWEALTH AVENUE",
+    "City": "BOSTON",
+    "Zip Code": 2215,
+    "Telephone": 6172320300
+  },
+  {
+    "NCES LEA ID": 2500531,
+    "State ID": 465,
+    "District Name": "MATCH COMMUNITY DAY CHARTER PUBLIC SCHOOL DISTRICT",
+    "Mailing Address": "215 Forest Hills Street",
+    "City": "Jamaica Plain",
+    "Zip Code": 2130,
+    "Telephone": 8572039668
+  },
+  {
+    "NCES LEA ID": 2507470,
+    "State ID": 173,
+    "District Name": "MATTAPOISETT",
+    "Mailing Address": "135 MARION RD",
+    "City": "MATTAPOISETT",
+    "Zip Code": 2739,
+    "Telephone": 5087582772
+  },
+  {
+    "NCES LEA ID": 2507500,
+    "State ID": 174,
+    "District Name": "MAYNARD",
+    "Mailing Address": "12 BANCROFT STREET",
+    "City": "MAYNARD",
+    "Zip Code": 1754,
+    "Telephone": 9788972222
+  },
+  {
+    "NCES LEA ID": 2507530,
+    "State ID": 175,
+    "District Name": "MEDFIELD",
+    "Mailing Address": "459 MAIN ST",
+    "City": "MEDFIELD",
+    "Zip Code": 2052,
+    "Telephone": 5083592302
+  },
+  {
+    "NCES LEA ID": 2507560,
+    "State ID": 176,
+    "District Name": "MEDFORD",
+    "Mailing Address": "489 WINTHROP STREET",
+    "City": "MEDFORD",
+    "Zip Code": 2155,
+    "Telephone": 7813932442
+  },
+  {
+    "NCES LEA ID": 2507590,
+    "State ID": 177,
+    "District Name": "MEDWAY",
+    "Mailing Address": "45 HOLLISTON STREET",
+    "City": "MEDWAY",
+    "Zip Code": 2053,
+    "Telephone": 5085333222
+  },
+  {
+    "NCES LEA ID": 2507620,
+    "State ID": 178,
+    "District Name": "MELROSE",
+    "Mailing Address": "360 LYNN FELLS PKWY",
+    "City": "MELROSE",
+    "Zip Code": 2176,
+    "Telephone": 7816622000
+  },
+  {
+    "NCES LEA ID": 2507680,
+    "State ID": 710,
+    "District Name": "MENDON-UPTON",
+    "Mailing Address": "150 NORTH AVE",
+    "City": "MENDON",
+    "Zip Code": 1756,
+    "Telephone": 5086341585
+  },
+  {
+    "NCES LEA ID": 2507740,
+    "State ID": 181,
+    "District Name": "METHUEN",
+    "Mailing Address": "10 DITSON PL",
+    "City": "METHUEN",
+    "Zip Code": 1844,
+    "Telephone": 9787226001
+  },
+  {
+    "NCES LEA ID": 2507770,
+    "State ID": 182,
+    "District Name": "MIDDLEBOROUGH",
+    "Mailing Address": "30 FOREST STREET",
+    "City": "MIDDLEBOROUGH",
+    "Zip Code": 2346,
+    "Telephone": 5089462000
+  },
+  {
+    "NCES LEA ID": 2507830,
+    "State ID": 184,
+    "District Name": "MIDDLETON",
+    "Mailing Address": "28 MIDDLETON ROAD",
+    "City": "BOXFORD",
+    "Zip Code": 1921,
+    "Telephone": 9788870771
+  },
+  {
+    "NCES LEA ID": 2507860,
+    "State ID": 185,
+    "District Name": "MILFORD",
+    "Mailing Address": "31 WEST FOUNTAIN STREET",
+    "City": "MILFORD",
+    "Zip Code": 1757,
+    "Telephone": 5084781101
+  },
+  {
+    "NCES LEA ID": 2507890,
+    "State ID": 186,
+    "District Name": "MILLBURY",
+    "Mailing Address": "12 MARTIN STREET",
+    "City": "MILLBURY",
+    "Zip Code": 1527,
+    "Telephone": 5088659501
+  },
+  {
+    "NCES LEA ID": 2507920,
+    "State ID": 187,
+    "District Name": "MILLIS",
+    "Mailing Address": "245 PLAIN STREET",
+    "City": "MILLIS",
+    "Zip Code": 2054,
+    "Telephone": 5083767000
+  },
+  {
+    "NCES LEA ID": 2507980,
+    "State ID": 189,
+    "District Name": "MILTON",
+    "Mailing Address": "25 GILE ROAD",
+    "City": "MILTON",
+    "Zip Code": 2186,
+    "Telephone": 6176964808
+  },
+  {
+    "NCES LEA ID": 2507985,
+    "State ID": 830,
+    "District Name": "MINUTEMAN REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "758 MARRETT RD",
+    "City": "LEXINGTON",
+    "Zip Code": 2421,
+    "Telephone": 7818616500
+  },
+  {
+    "NCES LEA ID": 2507990,
+    "State ID": 717,
+    "District Name": "MOHAWK TRAIL",
+    "Mailing Address": "24 ASHFIELD RD",
+    "City": "SHELBURNE FALLS",
+    "Zip Code": 1370,
+    "Telephone": 4136250192
+  },
+  {
+    "NCES LEA ID": 2508040,
+    "State ID": 191,
+    "District Name": "MONSON",
+    "Mailing Address": "P O BOX 159",
+    "City": "MONSON",
+    "Zip Code": 1057,
+    "Telephone": 4132674150
+  },
+  {
+    "NCES LEA ID": 2508050,
+    "State ID": 832,
+    "District Name": "MONTACHUSETT REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "1050 WESTMINSTER STREET",
+    "City": "FITCHBURG",
+    "Zip Code": 1420,
+    "Telephone": 9783459200
+  },
+  {
+    "NCES LEA ID": 2508160,
+    "State ID": 715,
+    "District Name": "MOUNT GREYLOCK",
+    "Mailing Address": "1781 COLD SPRING RD",
+    "City": "WILLIAMSTOWN",
+    "Zip Code": 1267,
+    "Telephone": 4134589582
+  },
+  {
+    "NCES LEA ID": 2500055,
+    "State ID": 470,
+    "District Name": "MYSTIC VALLEY REGIONAL CHARTER (DISTRICT)",
+    "Mailing Address": "45 LEBANON STREET",
+    "City": "MALDEN",
+    "Zip Code": 2148,
+    "Telephone": 7813881961
+  },
+  {
+    "NCES LEA ID": 2508220,
+    "State ID": 196,
+    "District Name": "NAHANT",
+    "Mailing Address": "290 CASTLE ROAD",
+    "City": "NAHANT",
+    "Zip Code": 1908,
+    "Telephone": 7815811600
+  },
+  {
+    "NCES LEA ID": 2508250,
+    "State ID": 197,
+    "District Name": "NANTUCKET",
+    "Mailing Address": "10 SURFSIDE ROAD",
+    "City": "NANTUCKET",
+    "Zip Code": 2554,
+    "Telephone": 5082287285
+  },
+  {
+    "NCES LEA ID": 2508280,
+    "State ID": 720,
+    "District Name": "NARRAGANSETT",
+    "Mailing Address": "462 BALDWINVILLE ROAD",
+    "City": "BALDWINVILLE",
+    "Zip Code": 1436,
+    "Telephone": 9789395661
+  },
+  {
+    "NCES LEA ID": 2508310,
+    "State ID": 725,
+    "District Name": "NASHOBA",
+    "Mailing Address": "50 MECHANIC STREET",
+    "City": "BOLTON",
+    "Zip Code": 1740,
+    "Telephone": 9787790539
+  },
+  {
+    "NCES LEA ID": 2508320,
+    "State ID": 852,
+    "District Name": "NASHOBA VALLEY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "100 LITTLETON ROAD",
+    "City": "WESTFORD",
+    "Zip Code": 1886,
+    "Telephone": 9786924711
+  },
+  {
+    "NCES LEA ID": 2508340,
+    "State ID": 198,
+    "District Name": "NATICK",
+    "Mailing Address": "13 EAST CENTRAL STREET",
+    "City": "NATICK",
+    "Zip Code": 1760,
+    "Telephone": 5086476500
+  },
+  {
+    "NCES LEA ID": 2504560,
+    "State ID": 660,
+    "District Name": "NAUSET",
+    "Mailing Address": "78 ELDREDGE PKWY",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082558800
+  },
+  {
+    "NCES LEA ID": 2508370,
+    "State ID": 199,
+    "District Name": "NEEDHAM",
+    "Mailing Address": "1330 HIGHLAND AVENUE",
+    "City": "NEEDHAM",
+    "Zip Code": 2492,
+    "Telephone": 7814550400
+  },
+  {
+    "NCES LEA ID": 2500029,
+    "State ID": 444,
+    "District Name": "NEIGHBORHOOD HOUSE CHARTER (DISTRICT)",
+    "Mailing Address": "21 QUEEN STREET",
+    "City": "DORCHESTER",
+    "Zip Code": 2122,
+    "Telephone": 6178250703
+  },
+  {
+    "NCES LEA ID": 2508430,
+    "State ID": 201,
+    "District Name": "NEW BEDFORD",
+    "Mailing Address": "455 COUNTY STREET",
+    "City": "NEW BEDFORD",
+    "Zip Code": 2740,
+    "Telephone": 5089974511
+  },
+  {
+    "NCES LEA ID": 2500056,
+    "State ID": 471,
+    "District Name": "NEW LEADERSHIP CHARTER (DISTRICT)",
+    "Mailing Address": "37 ALDERMAN STREET",
+    "City": "SPRINGFIELD",
+    "Zip Code": 1108,
+    "Telephone": 4137829111
+  },
+  {
+    "NCES LEA ID": 2508530,
+    "State ID": 728,
+    "District Name": "NEW SALEM-WENDELL",
+    "Mailing Address": "18 PLEASANT STREET",
+    "City": "ERVING",
+    "Zip Code": 1344,
+    "Telephone": 4134233337
+  },
+  {
+    "NCES LEA ID": 2508580,
+    "State ID": 204,
+    "District Name": "NEWBURYPORT",
+    "Mailing Address": "70 LOW STREET",
+    "City": "NEWBURYPORT",
+    "Zip Code": 1950,
+    "Telephone": 9784654457
+  },
+  {
+    "NCES LEA ID": 2508610,
+    "State ID": 207,
+    "District Name": "NEWTON",
+    "Mailing Address": "100 WALNUT STREET",
+    "City": "NEWTONVILLE",
+    "Zip Code": 2460,
+    "Telephone": 6175596100
+  },
+  {
+    "NCES LEA ID": 2508640,
+    "State ID": 208,
+    "District Name": "NORFOLK",
+    "Mailing Address": "70 BOARDMAN STREET",
+    "City": "NORFOLK",
+    "Zip Code": 2056,
+    "Telephone": 5085281225
+  },
+  {
+    "NCES LEA ID": 2508650,
+    "State ID": 915,
+    "District Name": "NORFOLK COUNTY AGRICULTURAL",
+    "Mailing Address": "400 MAIN STREET",
+    "City": "WALPOLE",
+    "Zip Code": 2081,
+    "Telephone": 5086680268
+  },
+  {
+    "NCES LEA ID": 2508670,
+    "State ID": 209,
+    "District Name": "NORTH ADAMS",
+    "Mailing Address": "191 EAST MAIN STREET",
+    "City": "NORTH ADAMS",
+    "Zip Code": 1247,
+    "Telephone": 4136623225
+  },
+  {
+    "NCES LEA ID": 2508700,
+    "State ID": 211,
+    "District Name": "NORTH ANDOVER",
+    "Mailing Address": "1600 OSGOOD STREET",
+    "City": "NORTH ANDOVER",
+    "Zip Code": 1845,
+    "Telephone": 9787941503
+  },
+  {
+    "NCES LEA ID": 2508730,
+    "State ID": 212,
+    "District Name": "NORTH ATTLEBOROUGH",
+    "Mailing Address": "6 MORSE STREET",
+    "City": "NO. ATTLEBOROUGH",
+    "Zip Code": 2760,
+    "Telephone": 5086432100
+  },
+  {
+    "NCES LEA ID": 2508760,
+    "State ID": 215,
+    "District Name": "NORTH BROOKFIELD",
+    "Mailing Address": "10 NEW SCHOOL DRIVE",
+    "City": "NORTH BROOKFIELD",
+    "Zip Code": 1535,
+    "Telephone": 5088679821
+  },
+  {
+    "NCES LEA ID": 2500073,
+    "State ID": 474,
+    "District Name": "NORTH CENTRAL CHARTER ESSENTIAL (DISTRICT)",
+    "Mailing Address": "1 OAK HILL ROAD",
+    "City": "FITCHBURG",
+    "Zip Code": 1420,
+    "Telephone": 9783452701
+  },
+  {
+    "NCES LEA ID": 2508790,
+    "State ID": 735,
+    "District Name": "NORTH MIDDLESEX",
+    "Mailing Address": "45 MAIN STREET",
+    "City": "PEPPERELL",
+    "Zip Code": 1463,
+    "Telephone": 9785978713
+  },
+  {
+    "NCES LEA ID": 2508820,
+    "State ID": 217,
+    "District Name": "NORTH READING",
+    "Mailing Address": "0 SHERMAN ROAD",
+    "City": "NORTH READING",
+    "Zip Code": 1864,
+    "Telephone": 9786647810
+  },
+  {
+    "NCES LEA ID": 2508830,
+    "State ID": 854,
+    "District Name": "NORTH SHORE REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "30 LOG BRIDGE ROAD",
+    "City": "MIDDLETON",
+    "Zip Code": 1949,
+    "Telephone": 9787620001
+  },
+  {
+    "NCES LEA ID": 2508850,
+    "State ID": 210,
+    "District Name": "NORTHAMPTON",
+    "Mailing Address": "212 MAIN STREET",
+    "City": "NORTHAMPTON",
+    "Zip Code": 1060,
+    "Telephone": 4135871327
+  },
+  {
+    "NCES LEA ID": 2508860,
+    "State ID": 406,
+    "District Name": "NORTHAMPTON-SMITH VOCATIONAL AGRICULTURAL",
+    "Mailing Address": "80 LOCUST STREET",
+    "City": "NORTHAMPTON",
+    "Zip Code": 1060,
+    "Telephone": 4135871414
+  },
+  {
+    "NCES LEA ID": 2508910,
+    "State ID": 730,
+    "District Name": "NORTHBORO-SOUTHBORO",
+    "Mailing Address": "53 PARKERVILLE ROAD",
+    "City": "SOUTHBOROUGH",
+    "Zip Code": 1772,
+    "Telephone": 5084865115
+  },
+  {
+    "NCES LEA ID": 2508880,
+    "State ID": 213,
+    "District Name": "NORTHBOROUGH",
+    "Mailing Address": "53 PARKERVILLE ROAD",
+    "City": "SOUTHBOROUGH",
+    "Zip Code": 1772,
+    "Telephone": 5084865115
+  },
+  {
+    "NCES LEA ID": 2508940,
+    "State ID": 214,
+    "District Name": "NORTHBRIDGE",
+    "Mailing Address": "87 LINWOOD AVENUE",
+    "City": "WHITINSVILLE",
+    "Zip Code": 1588,
+    "Telephone": 5082348156
+  },
+  {
+    "NCES LEA ID": 2508960,
+    "State ID": 853,
+    "District Name": "NORTHEAST METROPOLITAN REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "100 HEMLOCK RD",
+    "City": "WAKEFIELD",
+    "Zip Code": 1880,
+    "Telephone": 7812460810
+  },
+  {
+    "NCES LEA ID": 2508950,
+    "State ID": 851,
+    "District Name": "NORTHERN BERKSHIRE REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "70 HODGES CROSS RD",
+    "City": "NORTH ADAMS",
+    "Zip Code": 1247,
+    "Telephone": 4136635383
+  },
+  {
+    "NCES LEA ID": 2509000,
+    "State ID": 218,
+    "District Name": "NORTON",
+    "Mailing Address": "64 WEST MAIN STREET",
+    "City": "NORTON",
+    "Zip Code": 2766,
+    "Telephone": 5082850100
+  },
+  {
+    "NCES LEA ID": 2509030,
+    "State ID": 219,
+    "District Name": "NORWELL",
+    "Mailing Address": "322 MAIN STREET",
+    "City": "NORWELL",
+    "Zip Code": 2061,
+    "Telephone": 7816598800
+  },
+  {
+    "NCES LEA ID": 2509060,
+    "State ID": 220,
+    "District Name": "NORWOOD",
+    "Mailing Address": "275 PROSPECT STREET",
+    "City": "NORWOOD",
+    "Zip Code": 2062,
+    "Telephone": 7817626804
+  },
+  {
+    "NCES LEA ID": 2504650,
+    "State ID": 221,
+    "District Name": "OAK BLUFFS",
+    "Mailing Address": "4 PINE STREET",
+    "City": "VINEYARD HAVEN",
+    "Zip Code": 2568,
+    "Telephone": 5086932007
+  },
+  {
+    "NCES LEA ID": 2509140,
+    "State ID": 855,
+    "District Name": "OLD COLONY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "476 NORTH AVENUE",
+    "City": "ROCHESTER",
+    "Zip Code": 2770,
+    "Telephone": 5087638011
+  },
+  {
+    "NCES LEA ID": 2509150,
+    "State ID": 740,
+    "District Name": "OLD ROCHESTER",
+    "Mailing Address": "135 MARION RD",
+    "City": "MATTAPOISETT",
+    "Zip Code": 2739,
+    "Telephone": 5087582772
+  },
+  {
+    "NCES LEA ID": 2509180,
+    "State ID": 223,
+    "District Name": "ORANGE",
+    "Mailing Address": "131 WEST MAIN STREET",
+    "City": "ORANGE",
+    "Zip Code": 1364,
+    "Telephone": 9785446763
+  },
+  {
+    "NCES LEA ID": 2509210,
+    "State ID": 224,
+    "District Name": "ORLEANS",
+    "Mailing Address": "78 ELDREDGE PKWY",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082558800
+  },
+  {
+    "NCES LEA ID": 2509270,
+    "State ID": 226,
+    "District Name": "OXFORD",
+    "Mailing Address": "5 SIGOURNEY STREET",
+    "City": "OXFORD",
+    "Zip Code": 1540,
+    "Telephone": 5089876050
+  },
+  {
+    "NCES LEA ID": 2509300,
+    "State ID": 227,
+    "District Name": "PALMER",
+    "Mailing Address": "24 CONVERSE STREET",
+    "City": "PALMER",
+    "Zip Code": 1069,
+    "Telephone": 4132832650
+  },
+  {
+    "NCES LEA ID": 2509310,
+    "State ID": 860,
+    "District Name": "PATHFINDER REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "240 SYKES STREET",
+    "City": "PALMER",
+    "Zip Code": 1069,
+    "Telephone": 4132839701
+  },
+  {
+    "NCES LEA ID": 2509360,
+    "State ID": 229,
+    "District Name": "PEABODY",
+    "Mailing Address": "21 JOHNSON STREET",
+    "City": "PEABODY",
+    "Zip Code": 1960,
+    "Telephone": 9785366500
+  },
+  {
+    "NCES LEA ID": 2509390,
+    "State ID": 230,
+    "District Name": "PELHAM",
+    "Mailing Address": "170 CHESTNUT STREET",
+    "City": "AMHERST",
+    "Zip Code": 1002,
+    "Telephone": 4133621810
+  },
+  {
+    "NCES LEA ID": 2509420,
+    "State ID": 231,
+    "District Name": "PEMBROKE",
+    "Mailing Address": "72 PILGRIM ROAD",
+    "City": "PEMBROKE",
+    "Zip Code": 2359,
+    "Telephone": 7818291178
+  },
+  {
+    "NCES LEA ID": 2509450,
+    "State ID": 745,
+    "District Name": "PENTUCKET",
+    "Mailing Address": "22 MAIN STREET",
+    "City": "WEST NEWBURY",
+    "Zip Code": 1985,
+    "Telephone": 9783632280
+  },
+  {
+    "NCES LEA ID": 2509540,
+    "State ID": 234,
+    "District Name": "PETERSHAM",
+    "Mailing Address": "P O BOX 148",
+    "City": "PETERSHAM",
+    "Zip Code": 1366,
+    "Telephone": 9787243363
+  },
+  {
+    "NCES LEA ID": 2500090,
+    "State ID": 493,
+    "District Name": "PHOENIX CHARTER ACADEMY (DISTRICT)",
+    "Mailing Address": "59 NICHOLS ST",
+    "City": "CHELSEA",
+    "Zip Code": 2150,
+    "Telephone": 6178893100
+  },
+  {
+    "NCES LEA ID": 2500518,
+    "State ID": 494,
+    "District Name": "PIONEER CHARTER SCHOOL OF SCIENCE (DISTRICT)",
+    "Mailing Address": "51-59 SUMMER STREET",
+    "City": "EVERETT",
+    "Zip Code": 2149,
+    "Telephone": 6173897277
+  },
+  {
+    "NCES LEA ID": 2509600,
+    "State ID": 750,
+    "District Name": "PIONEER VALLEY",
+    "Mailing Address": "97 F SUMNER TURNER RD",
+    "City": "NORTHFIELD",
+    "Zip Code": 1360,
+    "Telephone": 4134982911
+  },
+  {
+    "NCES LEA ID": 2500517,
+    "State ID": 497,
+    "District Name": "PIONEER VALLEY CHINESE IMMERSION CHARTER(DISTRICT)",
+    "Mailing Address": "317 RUSSELL STREET",
+    "City": "HADLEY",
+    "Zip Code": 1035,
+    "Telephone": 4135827040
+  },
+  {
+    "NCES LEA ID": 2500044,
+    "State ID": 479,
+    "District Name": "PIONEER VALLEY PERFORMING ARTS CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "15 MULLIGAN DRIVE",
+    "City": "SOUTH HADLEY",
+    "Zip Code": 1075,
+    "Telephone": 4135521580
+  },
+  {
+    "NCES LEA ID": 2509630,
+    "State ID": 236,
+    "District Name": "PITTSFIELD",
+    "Mailing Address": "269 FIRST STREET",
+    "City": "PITTSFIELD",
+    "Zip Code": 1201,
+    "Telephone": 4134999512
+  },
+  {
+    "NCES LEA ID": 2509690,
+    "State ID": 238,
+    "District Name": "PLAINVILLE",
+    "Mailing Address": "68 MESSENGER STREET",
+    "City": "PLAINVILLE",
+    "Zip Code": 2762,
+    "Telephone": 5086991300
+  },
+  {
+    "NCES LEA ID": 2509720,
+    "State ID": 239,
+    "District Name": "PLYMOUTH",
+    "Mailing Address": "253 SOUTH MEADOW RD",
+    "City": "PLYMOUTH",
+    "Zip Code": 2360,
+    "Telephone": 5088304300
+  },
+  {
+    "NCES LEA ID": 2509780,
+    "State ID": 240,
+    "District Name": "PLYMPTON",
+    "Mailing Address": "250 PEMBROKE STREET",
+    "City": "KINGSTON",
+    "Zip Code": 2364,
+    "Telephone": 7815854313
+  },
+  {
+    "NCES LEA ID": 2500046,
+    "State ID": 487,
+    "District Name": "PROSPECT HILL ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "50 ESSEX STREET",
+    "City": "CAMBRIDGE",
+    "Zip Code": 2139,
+    "Telephone": 6172847800
+  },
+  {
+    "NCES LEA ID": 2509840,
+    "State ID": 242,
+    "District Name": "PROVINCETOWN",
+    "Mailing Address": "2 MAYFLOWER LANE",
+    "City": "PROVINCETOWN",
+    "Zip Code": 2657,
+    "Telephone": 5084875000
+  },
+  {
+    "NCES LEA ID": 2500001,
+    "State ID": 753,
+    "District Name": "QUABBIN",
+    "Mailing Address": "872 SOUTH STREET",
+    "City": "BARRE",
+    "Zip Code": 1005,
+    "Telephone": 9783554668
+  },
+  {
+    "NCES LEA ID": 2512100,
+    "State ID": 778,
+    "District Name": "QUABOAG REGIONAL",
+    "Mailing Address": "284 OLD WEST BROOKFIELD ROAD",
+    "City": "WARREN",
+    "Zip Code": 1083,
+    "Telephone": 4134369256
+  },
+  {
+    "NCES LEA ID": 2509870,
+    "State ID": 243,
+    "District Name": "QUINCY",
+    "Mailing Address": "159 BURGIN PARKWAY",
+    "City": "QUINCY",
+    "Zip Code": 2169,
+    "Telephone": 6179848700
+  },
+  {
+    "NCES LEA ID": 2509900,
+    "State ID": 755,
+    "District Name": "RALPH C MAHAR",
+    "Mailing Address": "507 SOUTH MAIN STREET",
+    "City": "ORANGE",
+    "Zip Code": 1364,
+    "Telephone": 9785442920
+  },
+  {
+    "NCES LEA ID": 2509930,
+    "State ID": 244,
+    "District Name": "RANDOLPH",
+    "Mailing Address": "40 HIGHLAND AVENUE",
+    "City": "RANDOLPH",
+    "Zip Code": 2368,
+    "Telephone": 7819616205
+  },
+  {
+    "NCES LEA ID": 2509990,
+    "State ID": 246,
+    "District Name": "READING",
+    "Mailing Address": "82 OAKLAND ROAD",
+    "City": "READING",
+    "Zip Code": 1867,
+    "Telephone": 7819445800
+  },
+  {
+    "NCES LEA ID": 2510050,
+    "State ID": 248,
+    "District Name": "REVERE",
+    "Mailing Address": "101 SCHOOL STREET",
+    "City": "REVERE",
+    "Zip Code": 2151,
+    "Telephone": 7812868226
+  },
+  {
+    "NCES LEA ID": 2510080,
+    "State ID": 249,
+    "District Name": "RICHMOND",
+    "Mailing Address": "1831 STATE ROAD",
+    "City": "RICHMOND",
+    "Zip Code": 1254,
+    "Telephone": 4136984001
+  },
+  {
+    "NCES LEA ID": 2500057,
+    "State ID": 483,
+    "District Name": "RISING TIDE CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "6 RESNIK ROAD",
+    "City": "PLYMOUTH",
+    "Zip Code": 2360,
+    "Telephone": 5087472620
+  },
+  {
+    "NCES LEA ID": 2500062,
+    "State ID": 482,
+    "District Name": "RIVER VALLEY CHARTER (DISTRICT)",
+    "Mailing Address": "2 PERRY WAY",
+    "City": "NEWBURYPORT",
+    "Zip Code": 1950,
+    "Telephone": 9784650065
+  },
+  {
+    "NCES LEA ID": 2510140,
+    "State ID": 250,
+    "District Name": "ROCHESTER",
+    "Mailing Address": "135 MARION RD",
+    "City": "MATTAPOISETT",
+    "Zip Code": 2739,
+    "Telephone": 5087582772
+  },
+  {
+    "NCES LEA ID": 2510170,
+    "State ID": 251,
+    "District Name": "ROCKLAND",
+    "Mailing Address": "99 CHURCH STREET",
+    "City": "ROCKLAND",
+    "Zip Code": 2370,
+    "Telephone": 7818783893
+  },
+  {
+    "NCES LEA ID": 2510200,
+    "State ID": 252,
+    "District Name": "ROCKPORT",
+    "Mailing Address": "24 JERDENS LANE",
+    "City": "ROCKPORT",
+    "Zip Code": 1966,
+    "Telephone": 9785461200
+  },
+  {
+    "NCES LEA ID": 2510230,
+    "State ID": 253,
+    "District Name": "ROWE",
+    "Mailing Address": "24 ASHFIELD RD",
+    "City": "SHELBURNE FALLS",
+    "Zip Code": 1370,
+    "Telephone": 4136250192
+  },
+  {
+    "NCES LEA ID": 2500063,
+    "State ID": 484,
+    "District Name": "ROXBURY PREPARATORY CHARTER (DISTRICT)",
+    "Mailing Address": "120 FISHER AVENUE",
+    "City": "ROXBURY",
+    "Zip Code": 2120,
+    "Telephone": 6175662361
+  },
+  {
+    "NCES LEA ID": 2500028,
+    "State ID": 441,
+    "District Name": "SABIS INTERNATIONAL CHARTER (DISTRICT)",
+    "Mailing Address": "160 JOAN STREET",
+    "City": "SPRINGFIELD",
+    "Zip Code": 1129,
+    "Telephone": 4137832600
+  },
+  {
+    "NCES LEA ID": 2510380,
+    "State ID": 258,
+    "District Name": "SALEM",
+    "Mailing Address": "29 HIGHLAND AVENUE",
+    "City": "SALEM",
+    "Zip Code": 1970,
+    "Telephone": 9787401212
+  },
+  {
+    "NCES LEA ID": 2500084,
+    "State ID": 485,
+    "District Name": "SALEM ACADEMY CHARTER (DISTRICT)",
+    "Mailing Address": "45 CONGRESS STREET",
+    "City": "SALEM",
+    "Zip Code": 1970,
+    "Telephone": 9787442105
+  },
+  {
+    "NCES LEA ID": 2500532,
+    "State ID": 467,
+    "District Name": "SALEM COMMUNITY CHARTER SCHOOL DISTRICT",
+    "Mailing Address": "1 Museum Place MallSuite 121",
+    "City": "Salem",
+    "Zip Code": 1970,
+    "Telephone": 9788253470
+  },
+  {
+    "NCES LEA ID": 2510470,
+    "State ID": 261,
+    "District Name": "SANDWICH",
+    "Mailing Address": "365 QUAKER MEETINGHOUSE ROAD",
+    "City": "EAST SANDWICH",
+    "Zip Code": 2537,
+    "Telephone": 5088881054
+  },
+  {
+    "NCES LEA ID": 2510500,
+    "State ID": 262,
+    "District Name": "SAUGUS",
+    "Mailing Address": "23 MAIN STREET",
+    "City": "SAUGUS",
+    "Zip Code": 1906,
+    "Telephone": 7812315000
+  },
+  {
+    "NCES LEA ID": 2510530,
+    "State ID": 263,
+    "District Name": "SAVOY",
+    "Mailing Address": "26 CHAPEL ROAD",
+    "City": "SAVOY",
+    "Zip Code": 1256,
+    "Telephone": 4137431992
+  },
+  {
+    "NCES LEA ID": 2510560,
+    "State ID": 264,
+    "District Name": "SCITUATE",
+    "Mailing Address": "606 C J CUSHING HWY",
+    "City": "SCITUATE",
+    "Zip Code": 2066,
+    "Telephone": 7815458759
+  },
+  {
+    "NCES LEA ID": 2510590,
+    "State ID": 265,
+    "District Name": "SEEKONK",
+    "Mailing Address": "25 WATER LANE",
+    "City": "SEEKONK",
+    "Zip Code": 2771,
+    "Telephone": 5083995106
+  },
+  {
+    "NCES LEA ID": 2500045,
+    "State ID": 486,
+    "District Name": "SEVEN HILLS CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "51 GAGE STREET",
+    "City": "WORCESTER",
+    "Zip Code": 1605,
+    "Telephone": 5087997500
+  },
+  {
+    "NCES LEA ID": 2510620,
+    "State ID": 266,
+    "District Name": "SHARON",
+    "Mailing Address": "1 SCHOOL STREET",
+    "City": "SHARON",
+    "Zip Code": 2067,
+    "Telephone": 7817841570
+  },
+  {
+    "NCES LEA ID": 2510615,
+    "State ID": 871,
+    "District Name": "SHAWSHEEN VALLEY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "100 COOK STREET",
+    "City": "BILLERICA",
+    "Zip Code": 1821,
+    "Telephone": 9786672111
+  },
+  {
+    "NCES LEA ID": 2510710,
+    "State ID": 269,
+    "District Name": "SHERBORN",
+    "Mailing Address": "157 FARM STREET",
+    "City": "DOVER",
+    "Zip Code": 2030,
+    "Telephone": 5087850036
+  },
+  {
+    "NCES LEA ID": 2510770,
+    "State ID": 271,
+    "District Name": "SHREWSBURY",
+    "Mailing Address": "100 MAPLE AVENUE",
+    "City": "SHREWSBURY",
+    "Zip Code": 1545,
+    "Telephone": 5088418400
+  },
+  {
+    "NCES LEA ID": 2510800,
+    "State ID": 272,
+    "District Name": "SHUTESBURY",
+    "Mailing Address": "18 PLEASANT STREET",
+    "City": "ERVING",
+    "Zip Code": 1344,
+    "Telephone": 4134233337
+  },
+  {
+    "NCES LEA ID": 2500520,
+    "State ID": 477,
+    "District Name": "SILVER HILL HORACE MANN CHARTER (DISTRICT)",
+    "Mailing Address": "675 WASHINGTON STREET",
+    "City": "HAVERHILL",
+    "Zip Code": 1832,
+    "Telephone": 9783743448
+  },
+  {
+    "NCES LEA ID": 2510830,
+    "State ID": 760,
+    "District Name": "SILVER LAKE",
+    "Mailing Address": "250 PEMBROKE STREET",
+    "City": "KINGSTON",
+    "Zip Code": 2364,
+    "Telephone": 7815854313
+  },
+  {
+    "NCES LEA ID": 2500077,
+    "State ID": 419,
+    "District Name": "SMITH LEADERSHIP ACADEMY CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "23 LEONARD STREET",
+    "City": "BOSTON",
+    "Zip Code": 2122,
+    "Telephone": 6174747950
+  },
+  {
+    "NCES LEA ID": 2510860,
+    "State ID": 273,
+    "District Name": "SOMERSET",
+    "Mailing Address": "580 WHETSTONE HILL ROAD",
+    "City": "SOMERSET",
+    "Zip Code": 2726,
+    "Telephone": 5083243100
+  },
+  {
+    "NCES LEA ID": 2500541,
+    "State ID": "",
+    "District Name": "Somerset Berkley Regional School District",
+    "Mailing Address": "580 Whetstone Hill",
+    "City": "Somerset",
+    "Zip Code": 2726,
+    "Telephone": 5083243100
+  },
+  {
+    "NCES LEA ID": 2510890,
+    "State ID": 274,
+    "District Name": "SOMERVILLE",
+    "Mailing Address": "42 CROSS STREET",
+    "City": "SOMERVILLE",
+    "Zip Code": 2145,
+    "Telephone": 6176256600
+  },
+  {
+    "NCES LEA ID": 2510920,
+    "State ID": 278,
+    "District Name": "SOUTH HADLEY",
+    "Mailing Address": "116 MAIN STREET",
+    "City": "SOUTH HADLEY",
+    "Zip Code": 1075,
+    "Telephone": 4135385060
+  },
+  {
+    "NCES LEA ID": 2511060,
+    "State ID": 829,
+    "District Name": "SOUTH MIDDLESEX REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "750 WINTER STREET",
+    "City": "FRAMINGHAM",
+    "Zip Code": 1702,
+    "Telephone": 5084162250
+  },
+  {
+    "NCES LEA ID": 2500040,
+    "State ID": 488,
+    "District Name": "SOUTH SHORE CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "100 LONGWATER CIRCLE",
+    "City": "NORWELL",
+    "Zip Code": 2061,
+    "Telephone": 7819824202
+  },
+  {
+    "NCES LEA ID": 2510930,
+    "State ID": 873,
+    "District Name": "SOUTH SHORE REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "476 WEBSTER STREET",
+    "City": "HANOVER",
+    "Zip Code": 2339,
+    "Telephone": 7818788822
+  },
+  {
+    "NCES LEA ID": 2510950,
+    "State ID": 275,
+    "District Name": "SOUTHAMPTON",
+    "Mailing Address": "19 STAGE RD",
+    "City": "WESTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135277200
+  },
+  {
+    "NCES LEA ID": 2510980,
+    "State ID": 276,
+    "District Name": "SOUTHBOROUGH",
+    "Mailing Address": "53 PARKERVILLE ROAD",
+    "City": "SOUTHBOROUGH",
+    "Zip Code": 1772,
+    "Telephone": 5084865115
+  },
+  {
+    "NCES LEA ID": 2511010,
+    "State ID": 277,
+    "District Name": "SOUTHBRIDGE",
+    "Mailing Address": "41 ELM STREET",
+    "City": "SOUTHBRIDGE",
+    "Zip Code": 1550,
+    "Telephone": 5087645414
+  },
+  {
+    "NCES LEA ID": 2511020,
+    "State ID": 872,
+    "District Name": "SOUTHEASTERN REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "250 FOUNDRY STREET",
+    "City": "SOUTH EASTON",
+    "Zip Code": 2375,
+    "Telephone": 5082301200
+  },
+  {
+    "NCES LEA ID": 2511040,
+    "State ID": 765,
+    "District Name": "SOUTHERN BERKSHIRE",
+    "Mailing Address": "PO BOX 339",
+    "City": "SHEFFIELD",
+    "Zip Code": 1257,
+    "Telephone": 4132298778
+  },
+  {
+    "NCES LEA ID": 2511050,
+    "State ID": 876,
+    "District Name": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "57 OLD MUGGETT HILL ROAD",
+    "City": "CHARLTON",
+    "Zip Code": 1507,
+    "Telephone": 5082485971
+  },
+  {
+    "NCES LEA ID": 2500013,
+    "State ID": 766,
+    "District Name": "SOUTHWICK-TOLLAND",
+    "Mailing Address": "86 POWDER MILL ROAD",
+    "City": "SOUTHWICK",
+    "Zip Code": 1077,
+    "Telephone": 4135695391
+  },
+  {
+    "NCES LEA ID": 2500002,
+    "State ID": 767,
+    "District Name": "SPENCER-E BROOKFIELD",
+    "Mailing Address": "306 MAIN STREET",
+    "City": "SPENCER",
+    "Zip Code": 1562,
+    "Telephone": 5088858500
+  },
+  {
+    "NCES LEA ID": 2500523,
+    "State ID": 476,
+    "District Name": "SPIRIT OF KNOWLEDGE CHARTER SCHOOL (DISTRICT)",
+    "Mailing Address": "PO BOX 20164",
+    "City": "WORCESTER",
+    "Zip Code": 1602,
+    "Telephone": 6177210610
+  },
+  {
+    "NCES LEA ID": 2511130,
+    "State ID": 281,
+    "District Name": "SPRINGFIELD",
+    "Mailing Address": "1550 MAIN STREET",
+    "City": "SPRINGFIELD",
+    "Zip Code": 1103,
+    "Telephone": 4137877100
+  },
+  {
+    "NCES LEA ID": 2511220,
+    "State ID": 284,
+    "District Name": "STONEHAM",
+    "Mailing Address": "149 FRANKLIN STREET",
+    "City": "STONEHAM",
+    "Zip Code": 2180,
+    "Telephone": 7812793802
+  },
+  {
+    "NCES LEA ID": 2511250,
+    "State ID": 285,
+    "District Name": "STOUGHTON",
+    "Mailing Address": "232 PEARL STREET",
+    "City": "STOUGHTON",
+    "Zip Code": 2072,
+    "Telephone": 7813444000
+  },
+  {
+    "NCES LEA ID": 2511310,
+    "State ID": 287,
+    "District Name": "STURBRIDGE",
+    "Mailing Address": "320 BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2500058,
+    "State ID": 489,
+    "District Name": "STURGIS CHARTER PUBLIC (DISTRICT)",
+    "Mailing Address": "427 MAIN STREET",
+    "City": "HYANNIS",
+    "Zip Code": 2601,
+    "Telephone": 5087781782
+  },
+  {
+    "NCES LEA ID": 2511340,
+    "State ID": 288,
+    "District Name": "SUDBURY",
+    "Mailing Address": "40 FAIRBANK RD",
+    "City": "SUDBURY",
+    "Zip Code": 1776,
+    "Telephone": 9786393211
+  },
+  {
+    "NCES LEA ID": 2511370,
+    "State ID": 289,
+    "District Name": "SUNDERLAND",
+    "Mailing Address": "219 CHRISTIAN LN RFD1",
+    "City": "SOUTH DEERFIELD",
+    "Zip Code": 1373,
+    "Telephone": 4136651155
+  },
+  {
+    "NCES LEA ID": 2511400,
+    "State ID": 290,
+    "District Name": "SUTTON",
+    "Mailing Address": "383 BOSTON RD",
+    "City": "SUTTON",
+    "Zip Code": 1590,
+    "Telephone": 5085811600
+  },
+  {
+    "NCES LEA ID": 2511430,
+    "State ID": 291,
+    "District Name": "SWAMPSCOTT",
+    "Mailing Address": "207 FOREST AVENUE",
+    "City": "SWAMPSCOTT",
+    "Zip Code": 1907,
+    "Telephone": 7815968800
+  },
+  {
+    "NCES LEA ID": 2511460,
+    "State ID": 292,
+    "District Name": "SWANSEA",
+    "Mailing Address": "1 GARDNERS NECK ROAD",
+    "City": "SWANSEA",
+    "Zip Code": 2777,
+    "Telephone": 5086751195
+  },
+  {
+    "NCES LEA ID": 2511490,
+    "State ID": 770,
+    "District Name": "TANTASQUA",
+    "Mailing Address": "320A BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2511520,
+    "State ID": 293,
+    "District Name": "TAUNTON",
+    "Mailing Address": "215 HARRIS STREET",
+    "City": "TAUNTON",
+    "Zip Code": 2780,
+    "Telephone": 5088211201
+  },
+  {
+    "NCES LEA ID": 2511580,
+    "State ID": 295,
+    "District Name": "TEWKSBURY",
+    "Mailing Address": "139 PLEASANT STREET",
+    "City": "TEWKSBURY",
+    "Zip Code": 1876,
+    "Telephone": 9786407800
+  },
+  {
+    "NCES LEA ID": 2512570,
+    "State ID": 296,
+    "District Name": "TISBURY",
+    "Mailing Address": "4 PINE STREET",
+    "City": "VINEYARD HAVEN",
+    "Zip Code": 2568,
+    "Telephone": 5086932007
+  },
+  {
+    "NCES LEA ID": 2511670,
+    "State ID": 298,
+    "District Name": "TOPSFIELD",
+    "Mailing Address": "28 MIDDLETON ROAD",
+    "City": "BOXFORD",
+    "Zip Code": 1921,
+    "Telephone": 9788870771
+  },
+  {
+    "NCES LEA ID": 2511735,
+    "State ID": 878,
+    "District Name": "TRI COUNTY REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "147 POND STREET",
+    "City": "FRANKLIN",
+    "Zip Code": 2038,
+    "Telephone": 5085285400
+  },
+  {
+    "NCES LEA ID": 2511740,
+    "State ID": 773,
+    "District Name": "TRITON",
+    "Mailing Address": "112 ELM STREET",
+    "City": "BYFIELD",
+    "Zip Code": 1922,
+    "Telephone": 9784652397
+  },
+  {
+    "NCES LEA ID": 2511730,
+    "State ID": 300,
+    "District Name": "TRURO",
+    "Mailing Address": "P O BOX 2029",
+    "City": "TRURO",
+    "Zip Code": 2666,
+    "Telephone": 5084871558
+  },
+  {
+    "NCES LEA ID": 2511760,
+    "State ID": 301,
+    "District Name": "TYNGSBOROUGH",
+    "Mailing Address": "50 NORRIS RD",
+    "City": "TYNGSBOROUGH",
+    "Zip Code": 1879,
+    "Telephone": 9786497488
+  },
+  {
+    "NCES LEA ID": 2500533,
+    "State ID": 480,
+    "District Name": "UP ACADEMY CHARTER SCHOOL OF BOSTON DISTRICT",
+    "Mailing Address": "BOX 52131",
+    "City": "BOSTON",
+    "Zip Code": 2205,
+    "Telephone": 6172334226
+  },
+  {
+    "NCES LEA ID": 2500043,
+    "State ID": 774,
+    "District Name": "UP-ISLAND REGIONAL",
+    "Mailing Address": "4 PINE STREET",
+    "City": "VINEYARD HAVEN",
+    "Zip Code": 2568,
+    "Telephone": 5086932007
+  },
+  {
+    "NCES LEA ID": 2511800,
+    "State ID": 879,
+    "District Name": "UPPER CAPE COD REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "220 SANDWICH RD",
+    "City": "BOURNE",
+    "Zip Code": 2532,
+    "Telephone": 5087597711
+  },
+  {
+    "NCES LEA ID": 2511850,
+    "State ID": 304,
+    "District Name": "UXBRIDGE",
+    "Mailing Address": "21 SOUTH MAIN STREET",
+    "City": "UXBRIDGE",
+    "Zip Code": 1569,
+    "Telephone": 5082788648
+  },
+  {
+    "NCES LEA ID": 2500536,
+    "State ID": "",
+    "District Name": "Veritas Preparatory Charter School (District)",
+    "Mailing Address": "PO Box 3553",
+    "City": "Springfield",
+    "Zip Code": 1101,
+    "Telephone": ""
+  },
+  {
+    "NCES LEA ID": 2511880,
+    "State ID": 775,
+    "District Name": "WACHUSETT",
+    "Mailing Address": "1745 MAIN STREET",
+    "City": "JEFFERSON",
+    "Zip Code": 1522,
+    "Telephone": 5088291670
+  },
+  {
+    "NCES LEA ID": 2511910,
+    "State ID": 305,
+    "District Name": "WAKEFIELD",
+    "Mailing Address": "60 FARM STREET",
+    "City": "WAKEFIELD",
+    "Zip Code": 1880,
+    "Telephone": 7812466400
+  },
+  {
+    "NCES LEA ID": 2511940,
+    "State ID": 306,
+    "District Name": "WALES",
+    "Mailing Address": "320 BROOKFIELD RD",
+    "City": "FISKDALE",
+    "Zip Code": 1518,
+    "Telephone": 5083473077
+  },
+  {
+    "NCES LEA ID": 2511970,
+    "State ID": 307,
+    "District Name": "WALPOLE",
+    "Mailing Address": "135 SCHOOL STREET",
+    "City": "WALPOLE",
+    "Zip Code": 2081,
+    "Telephone": 5086607200
+  },
+  {
+    "NCES LEA ID": 2512000,
+    "State ID": 308,
+    "District Name": "WALTHAM",
+    "Mailing Address": "617 LEXINGTON STREET",
+    "City": "WALTHAM",
+    "Zip Code": 2452,
+    "Telephone": 7813145400
+  },
+  {
+    "NCES LEA ID": 2512030,
+    "State ID": 309,
+    "District Name": "WARE",
+    "Mailing Address": "P O BOX 240",
+    "City": "WARE",
+    "Zip Code": 1082,
+    "Telephone": 4139674271
+  },
+  {
+    "NCES LEA ID": 2512060,
+    "State ID": 310,
+    "District Name": "WAREHAM",
+    "Mailing Address": "54 MARION ROAD",
+    "City": "WAREHAM",
+    "Zip Code": 2571,
+    "Telephone": 5082913500
+  },
+  {
+    "NCES LEA ID": 2512180,
+    "State ID": 314,
+    "District Name": "WATERTOWN",
+    "Mailing Address": "30 COMMON STREET",
+    "City": "WATERTOWN",
+    "Zip Code": 2472,
+    "Telephone": 6179267700
+  },
+  {
+    "NCES LEA ID": 2512210,
+    "State ID": 315,
+    "District Name": "WAYLAND",
+    "Mailing Address": "41 COCHITUATE RD",
+    "City": "WAYLAND",
+    "Zip Code": 1778,
+    "Telephone": 5083583774
+  },
+  {
+    "NCES LEA ID": 2512240,
+    "State ID": 316,
+    "District Name": "WEBSTER",
+    "Mailing Address": "P.O. BOX 430",
+    "City": "WEBSTER",
+    "Zip Code": 1570,
+    "Telephone": 5089430104
+  },
+  {
+    "NCES LEA ID": 2512270,
+    "State ID": 317,
+    "District Name": "WELLESLEY",
+    "Mailing Address": "40 KINGSBURY STREET",
+    "City": "WELLESLEY",
+    "Zip Code": 2481,
+    "Telephone": 7814466210
+  },
+  {
+    "NCES LEA ID": 2512300,
+    "State ID": 318,
+    "District Name": "WELLFLEET",
+    "Mailing Address": "78 ELDREDGE PKWY",
+    "City": "ORLEANS",
+    "Zip Code": 2653,
+    "Telephone": 5082558800
+  },
+  {
+    "NCES LEA ID": 2512390,
+    "State ID": 322,
+    "District Name": "WEST BOYLSTON",
+    "Mailing Address": "125 CRESCENT STREET",
+    "City": "WEST BOYLSTON",
+    "Zip Code": 1583,
+    "Telephone": 5088352917
+  },
+  {
+    "NCES LEA ID": 2512420,
+    "State ID": 323,
+    "District Name": "WEST BRIDGEWATER",
+    "Mailing Address": "2 SPRING STREET",
+    "City": "WEST BRIDGEWATER",
+    "Zip Code": 2379,
+    "Telephone": 5088941230
+  },
+  {
+    "NCES LEA ID": 2512510,
+    "State ID": 332,
+    "District Name": "WEST SPRINGFIELD",
+    "Mailing Address": "26 CENTRAL STREET",
+    "City": "WEST SPRINGFIELD",
+    "Zip Code": 1089,
+    "Telephone": 4132633290
+  },
+  {
+    "NCES LEA ID": 2512600,
+    "State ID": 321,
+    "District Name": "WESTBOROUGH",
+    "Mailing Address": "45 WEST MAIN STREET",
+    "City": "WESTBOROUGH",
+    "Zip Code": 1581,
+    "Telephone": 5088367700
+  },
+  {
+    "NCES LEA ID": 2512630,
+    "State ID": 325,
+    "District Name": "WESTFIELD",
+    "Mailing Address": "22 ASHLEY STREET",
+    "City": "WESTFIELD",
+    "Zip Code": 1085,
+    "Telephone": 4135726403
+  },
+  {
+    "NCES LEA ID": 2512660,
+    "State ID": 326,
+    "District Name": "WESTFORD",
+    "Mailing Address": "23 DEPOT STREET",
+    "City": "WESTFORD",
+    "Zip Code": 1886,
+    "Telephone": 9786925560
+  },
+  {
+    "NCES LEA ID": 2512690,
+    "State ID": 327,
+    "District Name": "WESTHAMPTON",
+    "Mailing Address": "19 STAGE RD",
+    "City": "WESTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135277200
+  },
+  {
+    "NCES LEA ID": 2512750,
+    "State ID": 330,
+    "District Name": "WESTON",
+    "Mailing Address": "89 WELLESLEY STREET",
+    "City": "WESTON",
+    "Zip Code": 2493,
+    "Telephone": 7815298080
+  },
+  {
+    "NCES LEA ID": 2512780,
+    "State ID": 331,
+    "District Name": "WESTPORT",
+    "Mailing Address": "17 MAIN RD",
+    "City": "WESTPORT",
+    "Zip Code": 2790,
+    "Telephone": 5086361137
+  },
+  {
+    "NCES LEA ID": 2512810,
+    "State ID": 335,
+    "District Name": "WESTWOOD",
+    "Mailing Address": "220 NAHATAN STREET",
+    "City": "WESTWOOD",
+    "Zip Code": 2090,
+    "Telephone": 7813267500
+  },
+  {
+    "NCES LEA ID": 2512840,
+    "State ID": 336,
+    "District Name": "WEYMOUTH",
+    "Mailing Address": "111 MIDDLE STREET",
+    "City": "WEYMOUTH",
+    "Zip Code": 2189,
+    "Telephone": 7813351460
+  },
+  {
+    "NCES LEA ID": 2512870,
+    "State ID": 337,
+    "District Name": "WHATELY",
+    "Mailing Address": "219 CHRISTIAN LN RFD1",
+    "City": "SOUTH DEERFIELD",
+    "Zip Code": 1373,
+    "Telephone": 4136651155
+  },
+  {
+    "NCES LEA ID": 2512930,
+    "State ID": 780,
+    "District Name": "WHITMAN-HANSON",
+    "Mailing Address": "610 FRANKLIN STREET",
+    "City": "WHITMAN",
+    "Zip Code": 2382,
+    "Telephone": 7816187412
+  },
+  {
+    "NCES LEA ID": 2512950,
+    "State ID": 885,
+    "District Name": "WHITTIER REGIONAL VOCATIONAL TECHNICAL",
+    "Mailing Address": "115 AMESBURY LINE RD",
+    "City": "HAVERHILL",
+    "Zip Code": 1830,
+    "Telephone": 9783734101
+  },
+  {
+    "NCES LEA ID": 2512990,
+    "State ID": 340,
+    "District Name": "WILLIAMSBURG",
+    "Mailing Address": "19 STAGE RD",
+    "City": "WESTHAMPTON",
+    "Zip Code": 1027,
+    "Telephone": 4135277200
+  },
+  {
+    "NCES LEA ID": 2513020,
+    "State ID": 341,
+    "District Name": "WILLIAMSTOWN",
+    "Mailing Address": "115 CHURCH STREET",
+    "City": "WILLIAMSTOWN",
+    "Zip Code": 1267,
+    "Telephone": 4134585707
+  },
+  {
+    "NCES LEA ID": 2513050,
+    "State ID": 342,
+    "District Name": "WILMINGTON",
+    "Mailing Address": "161 CHURCH STREET",
+    "City": "WILMINGTON",
+    "Zip Code": 1887,
+    "Telephone": 9786946000
+  },
+  {
+    "NCES LEA ID": 2513080,
+    "State ID": 343,
+    "District Name": "WINCHENDON",
+    "Mailing Address": "175 GROVE STREET",
+    "City": "WINCHENDON",
+    "Zip Code": 1475,
+    "Telephone": 9782970031
+  },
+  {
+    "NCES LEA ID": 2513110,
+    "State ID": 344,
+    "District Name": "WINCHESTER",
+    "Mailing Address": "154 HORN POND BRK RD",
+    "City": "WINCHESTER",
+    "Zip Code": 1890,
+    "Telephone": 7817217004
+  },
+  {
+    "NCES LEA ID": 2513170,
+    "State ID": 346,
+    "District Name": "WINTHROP",
+    "Mailing Address": "1 METCALF SQUARE",
+    "City": "WINTHROP",
+    "Zip Code": 2152,
+    "Telephone": 6178465500
+  },
+  {
+    "NCES LEA ID": 2513200,
+    "State ID": 347,
+    "District Name": "WOBURN",
+    "Mailing Address": "55 LOCUST STREET",
+    "City": "WOBURN",
+    "Zip Code": 1801,
+    "Telephone": 7819378233
+  },
+  {
+    "NCES LEA ID": 2513230,
+    "State ID": 348,
+    "District Name": "WORCESTER",
+    "Mailing Address": "20 IRVING STREET",
+    "City": "WORCESTER",
+    "Zip Code": 1609,
+    "Telephone": 5087993115
+  },
+  {
+    "NCES LEA ID": 2513290,
+    "State ID": 350,
+    "District Name": "WRENTHAM",
+    "Mailing Address": "120 TAUNTON STREET",
+    "City": "WRENTHAM",
+    "Zip Code": 2093,
+    "Telephone": 5083845439
+  }
+]
