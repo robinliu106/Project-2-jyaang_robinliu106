@@ -1,6 +1,6 @@
 {
   "name": "bostonmap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -12,8 +12,28 @@
     "express": "~4.14.0",
     "googleapis": "^14.1.0",
     "jade": "~1.11.0",
+    "mongodb": "^2.2.11",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "stylus": "0.54.5"
-  }
+  },
+  "description": "Info:",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinliu106/bostonMap.git"
+  },
+  "keywords": [
+    "boston",
+    "map",
+    "data",
+    "mechanics"
+  ],
+  "author": "Ji Eun Yang, Robin Liu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/robinliu106/bostonMap/issues"
+  },
+  "homepage": "https://github.com/robinliu106/bostonMap#readme"
 }
